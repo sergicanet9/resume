@@ -1,0 +1,28 @@
+name: md_html_pdf
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - src/**
+
+jobs:
+  md_html_pdf:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: docker://pandoc/core:2.9
+        with:
+          args: --standalone -c src/style.css -o index.html src/resume.md
+
+      - run: |
+          sudo apt-get install xvfb libfontconfig wkhtmltopdf
+          xvfb-run wkhtmltopdf -L 20mm -R 20mm index.html resume.pdf
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add index.html resume.pdf
+          git commit -m "[CI:deploy] md_html_pdf job"
+
+      - uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
