@@ -1,8 +1,8 @@
 # sergi-canet
 Digital resume written in Makdown.
 
-- [Markdown Source](https://github.com/sergicanet9/sergi-canet/blob/master/src/resume.md)
-- [Download PDF](https://github.com/sergicanet9/sergi-canet/blob/master/resume.pdf)
+- [Markdown](https://github.com/sergicanet9/sergi-canet/blob/master/src/resume.md)
+- [PDF](https://github.com/sergicanet9/sergi-canet/blob/master/resume.pdf)
 
 ## USAGE
 ## Modify source files
