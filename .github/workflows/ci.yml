@@ -1,0 +1,35 @@
+name: CI
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - src/**
+
+jobs:
+  generate-html-and-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate html file
+        uses: docker://pandoc/core:2.9
+        with:
+          args: --standalone -c src/style.css -o index.html src/resume.md
+      - name: Generate pdf file
+        run: |
+          sudo apt-get install xvfb libfontconfig wkhtmltopdf
+          xvfb-run wkhtmltopdf -L 20mm -R 20mm index.html resume.pdf
+      - name: Commit changes
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        run: |
+          git config --local user.email "s.canet9@outlook.com"
+          git config --local user.name "Sergi Canet"
+          git add index.html resume.pdf
+          git commit -m "chore: Generate html and pdf files"
+
+      - name: Push changes
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ github.token }}
+          branch: ${{ github.head_ref }}
