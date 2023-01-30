@@ -26,10 +26,9 @@ jobs:
           git config --local user.name "Sergi Canet"
           git add resume-sergi-canet.html resume-sergi-canet.pdf
           git commit -m "chore: Generate html and pdf files"
-
       - name: Push changes
         if: steps.verify-changed-files.outputs.files_changed == 'true'
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         with:
           github_token: ${{ github.token }}
           branch: ${{ github.head_ref }}
