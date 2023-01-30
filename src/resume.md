@@ -15,4 +15,3 @@ Personal Details
 <span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/sergi-canet)
 
 <span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/sergicanet9)
-
