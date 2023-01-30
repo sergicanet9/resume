@@ -1,6 +1,6 @@
 <br /><br />
 
-![](src/pincture.PNG)
+![](src/picture.PNG)
 
 # Sergi Canet Vela
 
@@ -19,4 +19,4 @@ Personal Details
 <br /><br />
 
 ------
-> (Download latest PDF version)[https://github.com/sergicanet9/sergi-canet/blob/master/resume.pdf] | Check source code @ [https://github.com/sergicanet9/sergi-canet](https://github.com/sergicanet9/sergi-canet)
+> (Download latest PDF version)[https://github.com/sergicanet9/resume/blob/main/resume.pdf] | Check source code @ [https://github.com/sergicanet9/resume](https://github.com/sergicanet9/resume)
