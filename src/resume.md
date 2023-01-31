@@ -8,7 +8,7 @@
 
 <br /><br />
 
-Personal Details
+Personal details
 ---------
 <span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;s.canet9@outlook.com
 
