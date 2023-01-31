@@ -1,6 +1,6 @@
 <br /><br />
 
-![](src/picture.PNG)
+![](src/picture.png)
 
 # Sergi Canet Vela
 
@@ -19,4 +19,4 @@ Personal Details
 <br /><br />
 
 ------
-> (Download latest PDF version)[https://github.com/sergicanet9/resume/blob/main/resume.pdf] | Check source code @ [https://github.com/sergicanet9/resume](https://github.com/sergicanet9/resume)
+> Written in Markdown @ [https://github.com/sergicanet9/resume](https://github.com/sergicanet9/resume) | [Download latest PDF version](https://github.com/sergicanet9/resume/blob/main/resume.pdf)
