@@ -10,9 +10,9 @@ Contact details
 ---------
 <span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;<a href="mailto:s.canet9@outlook.com">s.canet9@outlook.com</a>
 <br />
-<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/sergi-canet)
+<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[https://www.linkedin.com/in/sergi-canet](https://www.linkedin.com/in/sergi-canet)
 <br />
-<span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/sergicanet9)
+<span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;&nbsp;[https://github.com/sergicanet9](https://github.com/sergicanet9)
 <br />
 <span class="fa fa-map-marker fa-lg"></span>&nbsp;&nbsp;&nbsp;Barcelona (Spain)
 
@@ -53,4 +53,6 @@ Languages
 <br /><br />
 
 ------
-> Written in Markdown @ [https://github.com/sergicanet9/resume](https://github.com/sergicanet9/resume) | [Download in PDF](https://raw.githubusercontent.com/sergicanet9/resume/main/resume-sergi-canet.pdf)
+> [Online version](https://htmlpreview.github.io/?https://github.com/sergicanet9/resume/blob/main/resume-sergi-canet.html) |
+[Download PDF](https://raw.githubusercontent.com/sergicanet9/resume/main/resume-sergi-canet.pdf) |
+[Github repository](https://github.com/sergicanet9/resume)
