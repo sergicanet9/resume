@@ -14,7 +14,7 @@ Contact details
 <br />
 <span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;&nbsp;[https://github.com/sergicanet9](https://github.com/sergicanet9)
 <br />
-<span class="fa fa-map-marker fa-lg"></span>&nbsp;&nbsp;&nbsp;Barcelona (Spain)
+<span class="fa fa-map-marker fa-lg"></span>&nbsp;&nbsp;&nbsp;Barcelona, Spain
 
 Personal projects
 ----------
