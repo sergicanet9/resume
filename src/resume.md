@@ -8,6 +8,7 @@
 <br /><br />
 Contact details
 ---------
+<br />
 <span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;<a href="mailto:s.canet9@outlook.com">s.canet9@outlook.com</a>
 <br />
 <span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/sergi-canet)
