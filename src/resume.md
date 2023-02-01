@@ -28,20 +28,31 @@ REST API implementing Hexagonal Architecture (Ports & Adapters) making use of ow
 
 Certifications
 ---------
-- Microsoft AZ-900: Azure Fundamentals
-- Microsoft 70-483: Programming in C#
-- Azure Devops Assessment (18473)
-- Microsoft Technology Associate (MTA)
-- Cambridge English: Advanced (C1)
+2021
+:	Microsoft AZ-900: Azure Fundamentals
+
+2019
+:	Microsoft 70-483: Programming in C#
+
+2019
+:	Azure Devops Assessment (18473)
+
+2018
+:	Microsoft Technology Associate (MTA)
+
+2016
+:	Cambridge English: Advanced (C1)
 
 Education
 ---------
 2022
 :	*Master’s Degree in Data Science*
+
 	[Universitat Oberta de Catalunya](https://www.uoc.edu)
 
 2019
 :	*Computer Enginnering Degree*
+
 	[Universitat Rovira i Virgili](https://www.urv.cat)
 
 Languages
