@@ -19,12 +19,20 @@ Contact details
 Work experience
 ----------
 May 2022 - Present
-:	Senior Software Engineer<br />
-	[Derivco Sports](https://derivco.com/)
+:	*Senior Software Engineer*<br />
+	[Derivco Sports](https://derivco.com)
 
-January 2021 - May 2022
-:	Software Engineer<br />
-	[Derivco Sports](https://derivco.com/)
+Jan 2021 - May 2022
+:	*Software Engineer*<br />
+	[Derivco Sports](https://derivco.com)
+
+Feb 2020 - Jan 2021
+:	*Software Engineer*<br />
+	[Derivco Sports](https://www.andornet.ad)
+
+Jul 2017 - Feb 2020
+:	*Software Engineer*<br />
+	[CTAIMA](https://www.ctaima.com)
 
 Personal projects
 ----------
@@ -64,19 +72,19 @@ Skills
 Certifications
 ---------
 2021
-:	Microsoft AZ-900: Azure Fundamentals
+:	*Microsoft AZ-900: Azure Fundamentals*
 
 2019
-:	Microsoft 70-483: Programming in C#
+:	*Microsoft 70-483: Programming in C#*
 
 2019
-:	Azure Devops Assessment (18473)
+:	*Azure Devops Assessment (18473)*
 
 2018
-:	Microsoft Technology Associate (MTA)
+:	*Microsoft Technology Associate (MTA)*
 
 2016
-:	Cambridge English: Advanced (C1)
+:	*Cambridge English: Advanced (C1)*
 
 Education
 ---------
