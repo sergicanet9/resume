@@ -26,6 +26,29 @@ Tools for building REST APIs in Go.
 [https://github.com/sergicanet9/scv-go-tools](https://github.com/sergicanet9/scv-go-tools)  
 REST API implementing Hexagonal Architecture (Ports & Adapters) making use of own scv-go-tools package. 
 
+Skills
+---------
+<table border="0">
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 Certifications
 ---------
 2021
@@ -46,13 +69,11 @@ Certifications
 Education
 ---------
 2022
-:	*Master’s Degree in Data Science*
-
+:	*Master’s Degree in Data Science*<br />
 	[Universitat Oberta de Catalunya](https://www.uoc.edu)
 
 2019
-:	*Computer Enginnering Degree*
-
+:	*Computer Enginnering Degree*<br />
 	[Universitat Rovira i Virgili](https://www.urv.cat)
 
 Languages
