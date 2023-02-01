@@ -23,7 +23,7 @@ Personal projects
 Tools for building REST APIs in Go.
 
 *go-hexagonal-api*  
-[https://github.com/sergicanet9/scv-go-tools](https://github.com/sergicanet9/scv-go-tools)  
+[https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)  
 REST API implementing Hexagonal Architecture (Ports & Adapters) making use of own scv-go-tools package. 
 
 Skills
