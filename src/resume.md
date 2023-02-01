@@ -36,18 +36,13 @@ Certifications
 
 Education
 ---------
-2016
-:	*Computer Engineer - Master’s Degree*  
-	Focus area: Software Engineering  
-	[Universidad de Las Palmas de Gran Canaria (Spain)](https://ulpgc.es)  
-	
 2022
-:       *Master’s Degree in Data Science*
-        [Universitat Oberta de Catalunya](https://www.uoc.edu)
+:	*Master’s Degree in Data Science*
+	[Universitat Oberta de Catalunya](https://www.uoc.edu)
 
 2019
-:       *Computer Enginnering Degree*
-        [Universitat Rovira i Virgili](https://www.urv.cat)
+:	*Computer Enginnering Degree*
+	[Universitat Rovira i Virgili](https://www.urv.cat)
 
 Languages
 ---------
