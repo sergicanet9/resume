@@ -30,22 +30,24 @@ Skills
 ---------
 <table border="0">
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>Go</td>
+    <td>.NET C#</td>
+    <td>Javascript</td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>Testing</td>
+    <td>CI/CD</td>
+    <td>Docker/Kubernetes</td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>SQL</td>
+    <td>MongoDB</td>
+    <td>Cosmos DB</td>
+ </tr>
+ <tr>
+    <td>Git</td>
+    <td>Microsoft Azure</td>
+    <td>REST APIs</td>
  </tr>
 </table>
 
@@ -78,9 +80,13 @@ Education
 
 Languages
 ---------
-- English
-- Spanish
-- Catalan
+<table border="0">
+ <tr>
+    <td>English</td>
+    <td>Spanish</td>
+    <td>Catalan</td>
+ </tr>
+</table>
 
 <br /><br />
 
