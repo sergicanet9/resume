@@ -19,10 +19,11 @@ Contact details
 Work experience
 ----------
 May 2022 - Present
-:	Senior Software Engineer
+:	Senior Software Engineer<br />
 	[Derivco Sports](https://derivco.com/)
-Jan 2021 - May 2022
-:	Senior Software Engineer
+
+January 2021 - May 2022
+:	Software Engineer<br />
 	[Derivco Sports](https://derivco.com/)
 
 Personal projects
