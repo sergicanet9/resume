@@ -16,6 +16,15 @@ Contact details
 <br />
 <span class="fa fa-map-marker fa-lg"></span>&nbsp;&nbsp;&nbsp;Barcelona, Spain
 
+Work experience
+----------
+May 2022 - Present
+:	Senior Software Engineer
+	[Derivco Sports](https://derivco.com/)
+Jan 2021 - May 2022
+:	Senior Software Engineer
+	[Derivco Sports](https://derivco.com/)
+
 Personal projects
 ----------
 *scv-go-tools*  
