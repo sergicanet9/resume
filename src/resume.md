@@ -50,18 +50,16 @@ Jul 2017 - Feb 2020
    - Development of individual project consisting on a chatbot, integrable in the corporate web  apps, powered by Microsoft Bot Framework and populated with a QnA Maker knowledge database.<br />
    - MySQL, SQL Server and CosmosDB databases.<br />
    - CI/CD with Microsoft Azure Pipelines.<br />
-
 <div class="page-break"></div>
-<br />
 
 Personal projects
 ----------
 *scv-go-tools* 
-[https://github.com/sergicanet9/scv-go-tools](https://github.com/sergicanet9/scv-go-tools) 
+[https://github.com/sergicanet9/scv-go-tools](https://github.com/sergicanet9/scv-go-tools)<br />
 Tools for building REST APIs in Go.
 
 *go-hexagonal-api* 
-[https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api) 
+[https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)<br />
 REST API implementing Hexagonal Architecture (Ports & Adapters) making use of own scv-go-tools package. 
 
 Skills
@@ -127,6 +125,7 @@ Languages
 </table>
 
 <br /><br />
+<div class="footer"></div>
 
 ------
 > [Online version](https://htmlpreview.github.io/?https://github.com/sergicanet9/resume/blob/main/resume-sergi-canet.html) |
