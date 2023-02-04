@@ -39,17 +39,20 @@ Jan 2021 - May 2022
 Feb 2020 - Jan 2021
 :	*Software Engineer*<br />
 	[Derivco Sports](https://www.andornet.ad)<br />
-   - Development and  maintenance of  customized  ASP.NET  MVC web apps for clientsfrom scratch.<br />
+   - Development and  maintenance of  customized  ASP.NET  MVC web apps for clients from scratch.<br />
    - SQL Server databases.<br />
 
 Jul 2017 - Feb 2020
-:	*Software Engineer*<br />
+:	*Junior Software Engineer*<br />
 	[CTAIMA](https://www.ctaima.com)<br />
    - Design and development of a new product from scratch formed  by  a  REST  API  in  .NET  Core  and  a  Single  Page  Application  in Vue.js.<br />
    - Maintenance, improvement and new features development in a legacy ASP.NET web app.<br />
    - Development of individual project consisting on a chatbot, integrable in the corporate  web  apps,  powered  by  Microsoft  Bot  Framework  and populated with a QnA Maker knowledge database.<br />
    - MySQL, SQL Server and CosmosDB databases.<br />
    - CI/CD with Microsoft Azure Pipelines.<br />
+
+<div class="page-break"></div>
+<br />
 
 Personal projects
 ----------
