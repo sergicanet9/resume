@@ -54,13 +54,13 @@ Jul 2017 - Feb 2020
 
 Personal projects
 ----------
-*scv-go-tools* 
+*scv-go-tools*<br />
 [https://github.com/sergicanet9/scv-go-tools](https://github.com/sergicanet9/scv-go-tools)<br />
-Tools for building REST APIs in Go.
+Tools for building REST APIs in Go.<br />
 
-*go-hexagonal-api* 
+*go-hexagonal-api*<br />
 [https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)<br />
-REST API implementing Hexagonal Architecture (Ports & Adapters) making use of own scv-go-tools package. 
+REST API implementing Hexagonal Architecture (Ports & Adapters) making use of own scv-go-tools package.<br />
 
 Skills
 ---------
