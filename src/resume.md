@@ -28,7 +28,7 @@ May 2022 - Present
 Jan 2021 - May 2022
 :	*Software Engineer*<br />
 	[Derivco Sports](https://derivco.com)<br />
-   - Development,  testing,  integration  and  maintenance  of REST  APIs written in Go.<br />
+   - Development, testing, integration and maintenance of REST APIs written in Go.<br />
    - Microservices architecture.<br />
    - Replacement of legacy projects written in Elixir with implementations in Go.<br />
    - PostgreSQL databases.<br />
@@ -39,15 +39,15 @@ Jan 2021 - May 2022
 Feb 2020 - Jan 2021
 :	*Software Engineer*<br />
 	[Derivco Sports](https://www.andornet.ad)<br />
-   - Development and  maintenance of  customized  ASP.NET  MVC web apps for clients from scratch.<br />
+   - Development and maintenance of customized ASP.NET MVC web apps for clients from scratch.<br />
    - SQL Server databases.<br />
 
 Jul 2017 - Feb 2020
 :	*Junior Software Engineer*<br />
 	[CTAIMA](https://www.ctaima.com)<br />
-   - Design and development of a new product from scratch formed  by  a  REST  API  in  .NET  Core  and  a  Single  Page  Application  in Vue.js.<br />
+   - Design and development of a new product from scratch formed by a REST API in .NET Core and a Single Page Application in Vue.js.<br />
    - Maintenance, improvement and new features development in a legacy ASP.NET web app.<br />
-   - Development of individual project consisting on a chatbot, integrable in the corporate  web  apps,  powered  by  Microsoft  Bot  Framework  and populated with a QnA Maker knowledge database.<br />
+   - Development of individual project consisting on a chatbot, integrable in the corporate web  apps, powered by Microsoft Bot Framework and populated with a QnA Maker knowledge database.<br />
    - MySQL, SQL Server and CosmosDB databases.<br />
    - CI/CD with Microsoft Azure Pipelines.<br />
 
@@ -56,12 +56,12 @@ Jul 2017 - Feb 2020
 
 Personal projects
 ----------
-*scv-go-tools*  
-[https://github.com/sergicanet9/scv-go-tools](https://github.com/sergicanet9/scv-go-tools)  
+*scv-go-tools* 
+[https://github.com/sergicanet9/scv-go-tools](https://github.com/sergicanet9/scv-go-tools) 
 Tools for building REST APIs in Go.
 
-*go-hexagonal-api*  
-[https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)  
+*go-hexagonal-api* 
+[https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api) 
 REST API implementing Hexagonal Architecture (Ports & Adapters) making use of own scv-go-tools package. 
 
 Skills
