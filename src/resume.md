@@ -38,7 +38,7 @@ Jan 2021 - May 2022
 
 Feb 2020 - Jan 2021
 :	*Software Engineer*<br />
-	[Derivco Sports](https://www.andornet.ad)<br />
+	[Andornet](https://www.andornet.ad)<br />
    - Development and maintenance of customized ASP.NET MVC web apps for clients from scratch.<br />
    - SQL Server databases.<br />
 
