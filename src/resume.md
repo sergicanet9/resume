@@ -21,18 +21,35 @@ Work experience
 May 2022 - Present
 :	*Senior Software Engineer*<br />
 	[Derivco Sports](https://derivco.com)
+   - Internal promotion to design and develop new projects from scratch, written in Go and deployed in Kubernetes clusters.
+   - Scale current microservices to go live in new markets and improve code quality.
+   - Queuing system with Apache Kafka.
 
 Jan 2021 - May 2022
 :	*Software Engineer*<br />
 	[Derivco Sports](https://derivco.com)
+   - Development,  testing,  integration  and  maintenance  of REST  APIs written in Go.
+   - Microservices architecture.
+   - Replacement of legacy projects written in Elixir with implementations in Go.
+   - PostgreSQL databases.
+   - Microsoft Azure Event Hubs.
+   - CI/CD with Microsoft Azure Pipelines.
+   - Monitoring and logs with Grafana and Splunk.
 
 Feb 2020 - Jan 2021
 :	*Software Engineer*<br />
 	[Derivco Sports](https://www.andornet.ad)
+   - Development and  maintenance of  customized  ASP.NET  MVC web apps for clientsfrom scratch.
+   - SQL Server databases.
 
 Jul 2017 - Feb 2020
 :	*Software Engineer*<br />
 	[CTAIMA](https://www.ctaima.com)
+   - Design and development of a new product from scratch formed  by  a  REST  API  in  .NET  Core  and  a  Single  Page  Application  in Vue.js.
+   - Maintenance, improvement and new features development in a legacy ASP.NET web app.
+   - Development of individual project consisting on a chatbot, integrable in the corporate  web  apps,  powered  by  Microsoft  Bot  Framework  and populated with a QnA Maker knowledge database.
+   - MySQL, SQL Server and CosmosDB databases.
+   - CI/CD with Microsoft Azure Pipelines.
 
 Personal projects
 ----------
