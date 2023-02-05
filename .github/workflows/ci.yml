@@ -4,9 +4,9 @@ on:
     branches:
       # - main
       - add-logos # TODO put main back
-    paths:
-      - src/**
-
+    # paths:
+      # - src/**  # TODO uncomment line
+      
 jobs:
   generate-html-and-pdf:
     runs-on: ubuntu-18.04
@@ -30,4 +30,5 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ github.token }}
-          branch: ${{ github.head_ref }}
+          # branch: ${{ github.head_ref }} # TODO put github.head_ref back
+          branch: add-logos 
