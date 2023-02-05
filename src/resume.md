@@ -1,4 +1,4 @@
-![](src/picture.png)
+![](src/profile.png)
 
 # Sergi Canet Vela
 ### Senior Software Engineer
