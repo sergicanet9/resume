@@ -21,7 +21,7 @@ May 2022 - Present
 	[Derivco Sports](https://derivco.com)<br />
    - Internal promotion to design and develop new projects from scratch, written in Go and deployed in Kubernetes clusters.<br />
    - Scale current microservices to go live in new markets and improve code quality.<br />
-   - Queuing system with Apache Kafka.<br />
+   - Queuing systems with Apache Kafka.<br />
 
 Jan 2021 - May 2022
 :	*Software Engineer*<br />
@@ -37,7 +37,7 @@ Jan 2021 - May 2022
 Feb 2020 - Jan 2021
 :	*Software Engineer*<br />
 	[Andornet](https://www.andornet.ad)<br />
-   - Development and maintenance of customized ASP.NET MVC web apps for clients from scratch.<br />
+   - Development and maintenance of customized ASP.NET MVC web apps from scratch.<br />
    - SQL Server databases.<br />
 
 Jul 2017 - Feb 2020
@@ -123,6 +123,7 @@ Languages
  </tr>
 </table>
 
+<br />
 <br />
 
 <footer>
