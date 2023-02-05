@@ -16,6 +16,9 @@ Contact details
 
 Work experience
 ----------
+<div class="logo"><img src="src/derivco.png"</div>
+:	[Derivco Sports](https://derivco.com)<br />
+
 May 2022 - Present
 :	*Senior Software Engineer*<br />
 	[Derivco Sports](https://derivco.com)<br />
