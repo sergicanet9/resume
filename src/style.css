@@ -121,11 +121,27 @@ em {
     .page-break {
         display: none;
     }
+
+    .footer {
+        display: block;
+        width: 100%;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+    }
 }
 
 @media print {
     .page-break {
         display: block;
         page-break-before: always;
+    }
+
+    footer {
+        display: block;
+        width: 100%;
+        position: absolute;
+        left: 0;
+        bottom: 0;
     }
 }
