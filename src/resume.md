@@ -59,7 +59,6 @@ Tools for building REST APIs in Go.<br />
 *go-hexagonal-api*<br />
 [https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)<br />
 REST API implementing Hexagonal Architecture (Ports & Adapters) making use of own scv-go-tools package.<br />
-It consists in a set of endpoints for user management that can indistinctly work with either a MongoDB or PostgreSQL instance, using the same handlers and business logic.<br />
 
 Skills
 ---------
