@@ -90,28 +90,28 @@ Skills
 Certifications
 ---------
 2021
-:	*Microsoft AZ-900: Azure Fundamentals*
+:	Microsoft AZ-900: Azure Fundamentals
 
 2019
-:	*Microsoft 70-483: Programming in C#*
+:	Microsoft 70-483: Programming in C#
 
 2019
-:	*Azure Devops Assessment (18473)*
+:	Azure Devops Assessment (18473)
 
 2018
-:	*Microsoft Technology Associate (MTA)*
+:	Microsoft Technology Associate (MTA)
 
 2016
-:	*Cambridge English: Advanced (C1)*
+:	Cambridge English: Advanced (C1)
 
 Education
 ---------
 2022
-:	*Master’s Degree in Data Science*<br />
+:	Master’s Degree in Data Science<br />
 	[Universitat Oberta de Catalunya](https://www.uoc.edu)
 
 2019
-:	*Computer Enginnering Degree*<br />
+:	Computer Enginnering Degree<br />
 	[Universitat Rovira i Virgili](https://www.urv.cat)
 
 Languages
