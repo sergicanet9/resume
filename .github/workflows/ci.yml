@@ -18,7 +18,7 @@ jobs:
       - name: Generate pdf file
         run: |
           sudo apt-get install xvfb libfontconfig wkhtmltopdf
-          xvfb-run wkhtmltopdf --margin-left 15 --margin-top 15 --margin-right 15 --margin-bottom 15 resume-sergi-canet.html resume-sergi-canet.pdf
+          xvfb-run wkhtmltopdf --margin-left 12 --margin-top 12 --margin-right 12 --margin-bottom 12 resume-sergi-canet.html resume-sergi-canet.pdf
       - name: Commit changes
         run: |
           git config --local user.email "s.canet9@outlook.com"

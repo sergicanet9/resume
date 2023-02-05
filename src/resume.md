@@ -1,5 +1,3 @@
-<br />
-
 ![](src/picture.png)
 
 # Sergi Canet Vela
