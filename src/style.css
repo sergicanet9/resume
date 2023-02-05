@@ -128,12 +128,10 @@ em {
         display: block;
         page-break-before: always;
     }
+}
 
-    .footer {
-        display: block;
-        width: 100%;
-        position: absolute;
-        left: 0;
-        bottom: 0;
-    }
+table {
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
 }
