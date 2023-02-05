@@ -71,7 +71,7 @@ Skills
  <tr>
     <td>Testing</td>
     <td>CI/CD</td>
-    <td>Docker/Kubernetes</td>
+    <td>Docker & Kubernetes</td>
  </tr>
  <tr>
     <td>SQL</td>
