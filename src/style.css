@@ -5,7 +5,7 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'segoe ui', 'fira sans', roboto, noto, 'droid sans', 'liberation sans', 'lucida grande', 'helvetica neue', helvetica, 'franklin gothic medium', 'century gothic', cantarell, oxygen, ubuntu, sans-serif;
     font-weight: 300;
     color: #323336;
-    font-size: 15px;
+    font-size: 16px;
     line-height: 1.5;
     margin: 0 auto;
     width: 580px;
@@ -76,11 +76,13 @@ dt {
     float: left;
     clear: left;
     width: 17%;
+    font-size: 15px;
 }
 
 dd {
     margin-left: 17%;
     margin-bottom: 10px;
+    text-align: justify;
 }
 
 p {
