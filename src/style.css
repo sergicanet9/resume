@@ -34,6 +34,13 @@ body {
     -moz-border-radius: 1000px;
 }
 
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 /* Title of the resume */
 h1 {
     font-size: 45px;
