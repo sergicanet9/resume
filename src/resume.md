@@ -126,11 +126,11 @@ Languages
 <br />
 <br />
 
-<div class="footer">
+<footer class="footer">
 
 ------
 > [Online version](https://htmlpreview.github.io/?https://github.com/sergicanet9/resume/blob/main/resume-sergi-canet.html) |
 [Download PDF](https://raw.githubusercontent.com/sergicanet9/resume/main/resume-sergi-canet.pdf) |
 [Github repository](https://github.com/sergicanet9/resume)
 
-</div>
+</footer>
