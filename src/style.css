@@ -127,8 +127,3 @@ em {
         page-break-before: always;
     }
 }
-
-.footer {
-    position: absolute;
-    bottom: 0;
-}
