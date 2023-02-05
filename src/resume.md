@@ -107,11 +107,11 @@ Certifications
 Education
 ---------
 2022
-:	Master’s Degree in Data Science<br />
+:	*Master’s Degree in Data Science*<br />
 	[Universitat Oberta de Catalunya](https://www.uoc.edu)
 
 2019
-:	Computer Enginnering Degree<br />
+:	*Computer Enginnering Degree*<br />
 	[Universitat Rovira i Virgili](https://www.urv.cat)
 
 Languages
