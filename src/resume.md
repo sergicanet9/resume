@@ -1,4 +1,4 @@
-![](src/profile.png)
+<img class="profile" src="src/profile.png">
 
 # Sergi Canet Vela
 ### Senior Software Engineer
@@ -16,7 +16,7 @@ Contact details
 
 Work experience
 ----------
-<div class="logo"><img src="src/derivco.png"></div>
+<img class="logo" src="src/derivco.png">
 :	[Derivco Sports](https://derivco.com)<br />
 
 May 2022 - Present
