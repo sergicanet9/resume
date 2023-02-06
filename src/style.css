@@ -13,7 +13,7 @@ body {
     box-sizing: border-box;
     position: relative;
     margin-bottom: 150px;
-    margin-top: 50px;
+    margin-top: 45px;
 }
 
 @media (max-width: 620px) {
