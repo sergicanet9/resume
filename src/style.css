@@ -141,6 +141,6 @@ table {
 }
 
 .time {
-    margin-left: 1%;
-    font-size: 14%;
+    float: right;
+    font-size: 14px;
 }
