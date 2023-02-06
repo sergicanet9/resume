@@ -24,7 +24,7 @@ Work experience
    - Scale current microservices to go live in new markets and improve code quality.<br />
    - Queuing systems with Apache Kafka.<br />
 
-:	*Software Engineer*<i class="time">January 2021 - May 2022</i><br />
+:	*Software Engineer*<i class="time">Jan 2021 - May 2022</i><br />
    - Development, testing, integration and maintenance of REST APIs written in Go.<br />
    - Microservices architecture.<br />
    - Replacement of legacy projects written in Elixir with implementations in Go.<br />
@@ -36,14 +36,14 @@ Work experience
 <img class="logo" src="src/andornet.png">
 :	[Andornet](https://www.andornet.ad)<br />
 
-:	*Software Engineer*<i class="time">February 2020 - January 2021</i><br />
+:	*Software Engineer*<i class="time">Feb 2020 - Jan 2021</i><br />
    - Development and maintenance of customized ASP.NET MVC web apps from scratch.<br />
    - SQL Server databases.<br />
 
 <img class="logo" src="src/ctaima.png">
 :	[CTAIMA](https://www.ctaima.com)
 
-:	*Junior Software Engineer*<i class="time">July 2017 - February 2020</i><br />
+:	*Junior Software Engineer*<i class="time">Jul 2017 - Feb 2020</i><br />
    - Design and development of a new product from scratch formed by a REST API in .NET Core and a Single Page Application in Vue.js.<br />
    - Maintenance, improvement and new features development in a legacy ASP.NET web app.<br />
    - Development of individual project consisting on a chatbot, integrable in the corporate web  apps, powered by Microsoft Bot Framework and populated with a QnA Maker knowledge database.<br />
