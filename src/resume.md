@@ -16,10 +16,10 @@ Contact details
 
 Work experience
 ----------
-<!-- <img class="logo" src="src/derivco.png">
+<img class="logo" src="src/derivco.png">
 :	[Derivco Sports](https://derivco.com)<br /> -->
 
-<!-- <span class="fab fa-linkedin fa-lg"></span> -->
+<!-- <span class="fab fa-linkedin fa-lg"></span>
 :	*Senior Software Engineer*<br />
    May 2022 - Present<br />
    - Internal promotion to design and develop new projects from scratch, written in Go and deployed in Kubernetes clusters.<br />
