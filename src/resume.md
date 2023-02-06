@@ -2,7 +2,6 @@
 
 # Sergi Canet Vela
 ### Senior Software Engineer
-<br />
 
 Contact details
 ---------
