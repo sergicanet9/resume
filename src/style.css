@@ -36,7 +36,7 @@ body {
 
 .logo {
     display: block;
-    width: 40%;
+    width: 50%;
 }
 
 /* Title of the resume */
@@ -57,7 +57,7 @@ h2:before {
     content: "";
     display: inline-block;
     margin-right: 1%;
-    width: 16%;
+    width: 12%;
     height: 10px;
     background-color: #4267B2;
 }
@@ -79,12 +79,13 @@ h3 {
 dt {
     float: left;
     clear: left;
-    width: 17%;
+    width: 14%;
     font-size: 15.5px;
+    text-align: center;
 }
 
 dd {
-    margin-left: 17%;
+    margin-left: 14%;
     margin-bottom: 10px;
     text-align: justify;
 }
