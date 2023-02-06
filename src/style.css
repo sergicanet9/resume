@@ -13,7 +13,7 @@ body {
     box-sizing: border-box;
     position: relative;
     margin-bottom: 150px;
-    margin-top: 50px;
+    margin-top: 45px;
 }
 
 @media (max-width: 620px) {
@@ -23,21 +23,28 @@ body {
     }
 }
 
-img,
-picture {
+.profile {
     display: block;
     max-width: 100%;
     margin: 0 auto;
-    width: 140px;
+    width: 135px;
     /*     border:50px solid #757575; */
     border-radius: 1000px;
     -webkit-border-radius: 1000px;
     -moz-border-radius: 1000px;
 }
 
+.logo {
+    display: block;
+    width: 45%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -6px;
+}
+
 /* Title of the resume */
 h1 {
-    font-size: 45px;
+    font-size: 43px;
     color: #757575;
     text-align: center;
     margin-bottom: 15px;
@@ -53,7 +60,7 @@ h2:before {
     content: "";
     display: inline-block;
     margin-right: 1%;
-    width: 16%;
+    width: 13%;
     height: 10px;
     background-color: #4267B2;
 }
@@ -65,22 +72,23 @@ h2:hover {
 }
 
 h3 {
-    font-size: 25px;
+    font-size: 23px;
     color: #757575;
     text-align: center;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 
 /* Definitions */
 dt {
     float: left;
     clear: left;
-    width: 17%;
+    width: 13%;
     font-size: 15.5px;
+    text-align: center;
 }
 
 dd {
-    margin-left: 17%;
+    margin-left: 14%;
     margin-bottom: 10px;
     text-align: justify;
 }
@@ -134,4 +142,9 @@ table {
     table-layout: fixed;
     width: 100%;
     text-align: center;
+}
+
+.time {
+    float: right;
+    font-size: 14px;
 }

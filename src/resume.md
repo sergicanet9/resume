@@ -1,8 +1,7 @@
-![](src/picture.png)
+<img class="profile" src="src/profile.png">
 
 # Sergi Canet Vela
 ### Senior Software Engineer
-<br />
 
 Contact details
 ---------
@@ -16,16 +15,15 @@ Contact details
 
 Work experience
 ----------
-May 2022 - Present
-:	*Senior Software Engineer*<br />
-	[Derivco Sports](https://derivco.com)<br />
+<img class="logo" src="src/derivco.png">
+:	[Derivco Sports](https://derivco.com)<br />
+
+:	*Senior Software Engineer*<i class="time">May 2022 - Present</i><br />
    - Internal promotion to design and develop new projects from scratch, written in Go and deployed in Kubernetes clusters.<br />
    - Scale current microservices to go live in new markets and improve code quality.<br />
    - Queuing systems with Apache Kafka.<br />
 
-Jan 2021 - May 2022
-:	*Software Engineer*<br />
-	[Derivco Sports](https://derivco.com)<br />
+:	*Software Engineer*<i class="time">Jan 2021 - May 2022</i><br />
    - Development, testing, integration and maintenance of REST APIs written in Go.<br />
    - Microservices architecture.<br />
    - Replacement of legacy projects written in Elixir with implementations in Go.<br />
@@ -34,15 +32,17 @@ Jan 2021 - May 2022
    - CI/CD with Microsoft Azure Pipelines.<br />
    - Monitoring and logs with Grafana and Splunk.<br />
 
-Feb 2020 - Jan 2021
-:	*Software Engineer*<br />
-	[Andornet](https://www.andornet.ad)<br />
+<img class="logo" src="src/andornet.png">
+:	[Andornet](https://www.andornet.ad)<br />
+
+:	*Software Engineer*<i class="time">Feb 2020 - Jan 2021</i><br />
    - Development and maintenance of customized ASP.NET MVC web apps from scratch.<br />
    - SQL Server databases.<br />
 
-Jul 2017 - Feb 2020
-:	*Junior Software Engineer*<br />
-	[CTAIMA](https://www.ctaima.com)<br />
+<img class="logo" src="src/ctaima.png">
+:	[CTAIMA](https://www.ctaima.com)
+
+:	*Junior Software Engineer*<i class="time">Jul 2017 - Feb 2020</i><br />
    - Design and development of a new product from scratch formed by a REST API in .NET Core and a Single Page Application in Vue.js.<br />
    - Maintenance, improvement and new features development in a legacy ASP.NET web app.<br />
    - Development of individual project consisting on a chatbot, integrable in the corporate web  apps, powered by Microsoft Bot Framework and populated with a QnA Maker knowledge database.<br />
