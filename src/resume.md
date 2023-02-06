@@ -17,14 +17,23 @@ Contact details
 Work experience
 ----------
 <img class="logo" src="src/derivco.png">
-:	[Derivco Sports](https://derivco.com)<br /> -->
+:	[Derivco Sports](https://derivco.com)<br />
 
 <ul class="bar">
- <li>element 1</li>
-  <li>element 2</li>
-  <li>element 3</li>
-  <li>element 4</li>
-  <li>element 5</li>
+ <li></li>:	*Senior Software Engineer*<br />
+   May 2022 - Present<br />
+   - Internal promotion to design and develop new projects from scratch, written in Go and deployed in Kubernetes clusters.<br />
+   - Scale current microservices to go live in new markets and improve code quality.<br />
+   - Queuing systems with Apache Kafka.<br />
+  <li></li> :	*Software Engineer*<br />
+	Jan 2021 - May 2022<br />
+   - Development, testing, integration and maintenance of REST APIs written in Go.<br />
+   - Microservices architecture.<br />
+   - Replacement of legacy projects written in Elixir with implementations in Go.<br />
+   - PostgreSQL databases.<br />
+   - Microsoft Azure Event Hubs.<br />
+   - CI/CD with Microsoft Azure Pipelines.<br />
+   - Monitoring and logs with Grafana and Splunk.<br />
 </ul>
 
 :	*Senior Software Engineer*<br />
