@@ -26,7 +26,7 @@ Work experience
    - Scale current microservices to go live in new markets and improve code quality.<br />
    - Queuing systems with Apache Kafka.<br />
 
-<span class="fab fa-linkedin fa-lg"></span>
+<!-- <span class="fab fa-linkedin fa-lg"></span> -->
 :	*Software Engineer*<br />
 	Jan 2021 - May 2022<br />
    - Development, testing, integration and maintenance of REST APIs written in Go.<br />
@@ -37,17 +37,17 @@ Work experience
    - CI/CD with Microsoft Azure Pipelines.<br />
    - Monitoring and logs with Grafana and Splunk.<br />
 
-<img class="logo" src="src/andornet.png">
-:	[Andornet](https://www.andornet.ad)<br />
+<!-- <img class="logo" src="src/andornet.png">
+:	[Andornet](https://www.andornet.ad)<br /> -->
 
-<span class="fab fa-linkedin fa-lg"></span>
+<!-- <span class="fab fa-linkedin fa-lg"></span> -->
 :	*Software Engineer*<br />
 	Feb 2020 - Jan 2021<br />
    - Development and maintenance of customized ASP.NET MVC web apps from scratch.<br />
    - SQL Server databases.<br />
 
-<img class="logo" src="src/ctaima.png">
-:	[CTAIMA](https://www.ctaima.com)
+<!-- <img class="logo" src="src/ctaima.png">
+:	[CTAIMA](https://www.ctaima.com) -->
 
 :	*Junior Software Engineer*<br />
 	Jul 2017 - Feb 2020<br />
