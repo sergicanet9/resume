@@ -126,8 +126,6 @@ Languages
 <br />
 
 ------
-<!-- TODO put main back -->
-> [Online version](https://htmlpreview.github.io/?https://github.com/sergicanet9/resume/blob/add-logos/resume-sergi-canet.html) |
-<!-- TODO put main back -->
-[Download PDF](https://raw.githubusercontent.com/sergicanet9/resume/add-logos/resume-sergi-canet.pdf) |
+> [Online version](https://htmlpreview.github.io/?https://github.com/sergicanet9/resume/blob/main/resume-sergi-canet.html) |
+[Download PDF](https://raw.githubusercontent.com/sergicanet9/resume/main/resume-sergi-canet.pdf) |
 [Github repository](https://github.com/sergicanet9/resume)

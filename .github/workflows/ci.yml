@@ -2,10 +2,9 @@ name: CI
 on:
   push:
     branches:
-      # - main
-      - add-logos # TODO put main back
-    # paths:
-      # - src/**  # TODO uncomment line
+      - main
+    paths:
+      - src/**
       
 jobs:
   generate-html-and-pdf:
@@ -30,5 +29,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ github.token }}
-          # branch: ${{ github.head_ref }} # TODO put github.head_ref back
-          branch: add-logos 
+          branch: ${{ github.head_ref }}
