@@ -20,14 +20,16 @@ Work experience
 :	[Derivco Sports](https://derivco.com)<br />
 
 <ul class="bar">
- <li></li>
-:	*Senior Software Engineer*<br />
+ <li>
+ *Senior Software Engineer*
    May 2022 - Present<br />
    - Internal promotion to design and develop new projects from scratch, written in Go and deployed in Kubernetes clusters.<br />
    - Scale current microservices to go live in new markets and improve code quality.<br />
    - Queuing systems with Apache Kafka.<br />
+ </li>
 
-  <li></li>
+  <li>Element 2</li>
+  
 :	*Software Engineer*<br />
 	Jan 2021 - May 2022<br />
    - Development, testing, integration and maintenance of REST APIs written in Go.<br />
