@@ -39,6 +39,7 @@ body {
     width: 45%;
     margin-right: auto;
     margin-left: auto;
+    margin-top: -6px;
 }
 
 /* Title of the resume */
