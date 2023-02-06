@@ -19,8 +19,9 @@ Work experience
 <img class="logo" src="src/derivco.png">
 :	[Derivco Sports](https://derivco.com)<br />
 
-May 2022 - Present
+<span class="fab fa-linkedin fa-lg"></span>
 :	*Senior Software Engineer*<br />
+   May 2022 - Present<br />
 	[Derivco Sports](https://derivco.com)<br />
    - Internal promotion to design and develop new projects from scratch, written in Go and deployed in Kubernetes clusters.<br />
    - Scale current microservices to go live in new markets and improve code quality.<br />
