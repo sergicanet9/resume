@@ -5,7 +5,14 @@
 
 Contact details
 ---------
-<span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;<a href="mailto:s.canet9@outlook.com">s.canet9@outlook.com</a><br />
+<span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;<a href="mailto:s.canet9@outlook.com">s.canet9@outlook.com</a>
+<br />
+<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[https://www.linkedin.com/in/sergi-canet](https://www.linkedin.com/in/sergi-canet)
+<br />
+<span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;&nbsp;[https://github.com/sergicanet9](https://github.com/sergicanet9)
+<br />
+<span class="fa fa-map-marker fa-lg"></span>&nbsp;&nbsp;&nbsp;Barcelona, Spain
+<!-- <span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;<a href="mailto:s.canet9@outlook.com">s.canet9@outlook.com</a><br />
 
 <span class="fab fa-linkedin fa-lg"></span>
 :  [https://www.linkedin.com/in/sergi-canet](https://www.linkedin.com/in/sergi-canet)<br />
@@ -14,7 +21,7 @@ Contact details
 :  [https://github.com/sergicanet9](https://github.com/sergicanet9)<br />
 
 <span class="fa fa-map-marker fa-lg"></span>
-:  Barcelona, Spain
+:  Barcelona, Spain -->
 
 Work experience
 ----------
