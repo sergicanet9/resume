@@ -13,6 +13,7 @@ Contact details
 
 <span class="fab fa-github fa-lg"></span>
 :  [https://github.com/sergicanet9](https://github.com/sergicanet9)<br />
+
 <span class="fa fa-map-marker fa-lg"></span>
 :  Barcelona, Spain
 
