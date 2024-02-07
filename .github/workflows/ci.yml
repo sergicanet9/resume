@@ -4,8 +4,8 @@ on:
     branches:
       - update-2024
       # - main
-    paths:
-      - src/**
+    # paths:
+    #   - src/**
 
 jobs:
   generate-html-and-pdf:
@@ -20,8 +20,8 @@ jobs:
         run: |
           sudo apt-get update 
           sudo apt-get install -y --force-yes xvfb 
-          sudo wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz 
-          sudo tar xvf wkhtmltox-0.12.4_linux-generic-amd64.tar.xz 
+          sudo wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.5_linux-generic-amd64.tar.xz 
+          sudo tar xvf wkhtmltox-0.12.5_linux-generic-amd64.tar.xz 
           sudo mv wkhtmltox/bin/wkhtmltopdf /usr/bin 
           xvfb-run wkhtmltopdf --margin-left 14 --margin-right 14 --margin-top 12 --margin-bottom 12 resume-sergi-canet.html resume-sergi-canet.pdf
       - name: Commit changes
