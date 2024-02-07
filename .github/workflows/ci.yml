@@ -3,8 +3,9 @@ on:
   push:
     branches:
       - update-2024
-    # paths:
-    #   - src/**
+      # - main
+    paths:
+      - src/**
 
 jobs:
   generate-html-and-pdf:

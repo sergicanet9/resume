@@ -56,10 +56,12 @@ Work experience
 
 Personal projects
 ----------
+<span class="fab fa-github fa-lg"></span>
 :	*scv-go-tools*<br />
 	[https://github.com/sergicanet9/scv-go-tools](https://github.com/sergicanet9/scv-go-tools)<br />
 	Tools for building REST APIs in Go.<br />
 
+<span class="fab fa-github fa-lg"></span>
 :	*go-hexagonal-api*<br />
 	[https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)<br />
 	REST API implementing Hexagonal Architecture (Ports & Adapters) making use of own scv-go-tools package.<br />
