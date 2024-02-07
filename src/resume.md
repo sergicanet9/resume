@@ -1,4 +1,3 @@
- <link href="src/all.css" rel="stylesheet">
 <img class="profile" src="src/profile.png">
 
 # Sergi Canet Vela
