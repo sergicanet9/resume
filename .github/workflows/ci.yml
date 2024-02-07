@@ -2,7 +2,7 @@ name: CI
 on:
   push:
     branches:
-      - main
+      - update-2024
     paths:
       - src/**
 
