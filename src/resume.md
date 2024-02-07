@@ -56,7 +56,7 @@ Work experience
 
 Personal projects
 ----------
-<span class="fab fa-github fa-lg"></span>
+<span class="fa-regular fa-circle-check"></span>
 :	*scv-go-tools*<br />
 	[https://github.com/sergicanet9/scv-go-tools](https://github.com/sergicanet9/scv-go-tools)<br />
 	Tools for building REST APIs in Go.<br />
