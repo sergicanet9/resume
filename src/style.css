@@ -60,7 +60,7 @@ h2:before {
     content: "";
     display: inline-block;
     margin-right: 1%;
-    width: 13%;
+    width: 10%;
     height: 10px;
     background-color: #4267B2;
 }
@@ -82,13 +82,13 @@ h3 {
 dt {
     float: left;
     clear: left;
-    width: 13%;
+    width: 10%;
     font-size: 15.5px;
     text-align: center;
 }
 
 dd {
-    margin-left: 14%;
+    margin-left: 12%;
     margin-bottom: 10px;
     text-align: justify;
 }
