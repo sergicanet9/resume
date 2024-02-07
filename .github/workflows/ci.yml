@@ -8,7 +8,7 @@ on:
 
 jobs:
   generate-html-and-pdf:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - name: Generate html file
