@@ -5,13 +5,17 @@
 
 Contact details
 ---------
-<span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;<a href="mailto:s.canet9@outlook.com">s.canet9@outlook.com</a>
-<br />
-<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[https://www.linkedin.com/in/sergi-canet](https://www.linkedin.com/in/sergi-canet)
-<br />
-<span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;&nbsp;[https://github.com/sergicanet9](https://github.com/sergicanet9)
-<br />
-<span class="fa fa-map-marker fa-lg"></span>&nbsp;&nbsp;&nbsp;Barcelona, Spain
+<span class="fas fa-envelope fa-lg"></span>
+:  <a href="mailto:s.canet9@outlook.com">s.canet9@outlook.com</a><br />
+
+<span class="fab fa-linkedin fa-lg"></span>
+:  [https://www.linkedin.com/in/sergi-canet](https://www.linkedin.com/in/sergi-canet)<br />
+
+<span class="fab fa-github fa-lg"></span>
+:  [https://github.com/sergicanet9](https://github.com/sergicanet9)<br />
+
+<span class="fa fa-map-marker fa-lg"></span>
+:  Barcelona, Spain
 
 Work experience
 ----------
@@ -52,13 +56,15 @@ Work experience
 
 Personal projects
 ----------
-*scv-go-tools*<br />
-[https://github.com/sergicanet9/scv-go-tools](https://github.com/sergicanet9/scv-go-tools)<br />
-Tools for building REST APIs in Go.<br />
+<span></span>
+:	*scv-go-tools*<br />
+	[https://github.com/sergicanet9/scv-go-tools](https://github.com/sergicanet9/scv-go-tools)<br />
+	Tools for building REST APIs in Go.<br />
 
-*go-hexagonal-api*<br />
-[https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)<br />
-REST API implementing Hexagonal Architecture (Ports & Adapters) making use of own scv-go-tools package.<br />
+<span></span>
+:	*go-hexagonal-api*<br />
+	[https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)<br />
+	REST API implementing Hexagonal Architecture (Ports & Adapters) making use of own scv-go-tools package.<br />
 
 Skills
 ---------

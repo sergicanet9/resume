@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,400italic);
+@import url(http://use.fontawesome.com/releases/v5.15.4/css/all.css);
 @import url(https://use.fontawesome.com/releases/v5.15.4/css/all.css);
 
 body {
@@ -13,7 +14,7 @@ body {
     box-sizing: border-box;
     position: relative;
     margin-bottom: 150px;
-    margin-top: 45px;
+    margin-top: 40px;
 }
 
 @media (max-width: 620px) {
@@ -39,7 +40,7 @@ body {
     width: 45%;
     margin-right: auto;
     margin-left: auto;
-    margin-top: -6px;
+    margin-top: -2px;
 }
 
 /* Title of the resume */
@@ -60,7 +61,7 @@ h2:before {
     content: "";
     display: inline-block;
     margin-right: 1%;
-    width: 13%;
+    width: 10%;
     height: 10px;
     background-color: #4267B2;
 }
@@ -76,26 +77,27 @@ h3 {
     color: #757575;
     text-align: center;
     margin-bottom: 30px;
+    margin-top: 20px;
 }
 
 /* Definitions */
 dt {
     float: left;
     clear: left;
-    width: 13%;
+    width: 10%;
     font-size: 15.5px;
     text-align: center;
 }
 
 dd {
-    margin-left: 14%;
-    margin-bottom: 10px;
+    margin-left: 12%;
+    margin-bottom: 2px;
     text-align: justify;
 }
 
 p {
     margin-top: 0;
-    margin-bottom: 7px;
+    margin-bottom: 10px;
 }
 
 /* Blockquotes */
