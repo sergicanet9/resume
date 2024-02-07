@@ -18,11 +18,19 @@ jobs:
           args: --standalone -c src/style.css -o resume-sergi-canet.html src/resume.md
       - name: Generate pdf file
         run: |
-          sudo apt-get update 
-          sudo apt-get install -y --force-yes xvfb 
-          sudo wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtmltox-0.12.5_linux-generic-amd64.tar.xz 
-          sudo tar xvf wkhtmltox-0.12.5_linux-generic-amd64.tar.xz 
-          sudo mv wkhtmltox/bin/wkhtmltopdf /usr/bin 
+          # sudo apt-get update 
+          # sudo apt-get install -y --force-yes xvfb 
+          # sudo wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtmltox-0.12.5_linux-generic-amd64.tar.xz 
+          # sudo tar xvf wkhtmltox-0.12.5_linux-generic-amd64.tar.xz 
+          # sudo mv wkhtmltox/bin/wkhtmltopdf /usr/bin 
+          sudo apt-get install -y software-properties-common && \
+          sudo apt-add-repository -y "deb http://security.ubuntu.com/ubuntu bionic-security main" && \
+          sudo apt-get -yq update && \
+          sudo apt-get install -y libxrender1 libfontconfig1 libx11-dev libjpeg62 libxtst6 \
+                                    fontconfig xfonts-75dpi xfonts-base libpng12-0 && \
+          wget "https://downloads.wkhtmltopdf.org/0.12/0.12.5/wkhtmltox_0.12.5-1.bionic_amd64.deb" && \
+          sudo dpkg -i wkhtmltox_0.12.5-1.bionic_amd64.deb && \
+          sudo apt-get -f install
           xvfb-run wkhtmltopdf --margin-left 14 --margin-right 14 --margin-top 12 --margin-bottom 12 resume-sergi-canet.html resume-sergi-canet.pdf
       - name: Commit changes
         run: |
