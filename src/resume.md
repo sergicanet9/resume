@@ -41,6 +41,7 @@ Work experience
 :	*Software Engineer*<i class="time">Feb 2020 - Jan 2021</i><br />
    - Defining, developing and going live with customized ASP.NET MVC web apps from scratch.<br />
    - SQL Server databases.<br />
+   - Implement CI/CD in existing company projects.<br />
    - Mentor two new graduate software engineers individually, and contribute to their growth plans.<br />
 
 <img class="logo" src="src/ctaima.png">
