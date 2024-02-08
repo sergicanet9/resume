@@ -33,7 +33,6 @@ Work experience
    - Development, testing, integration and maintenance of microservices written in Go.<br />
    - Replacement of legacy projects written in Elixir with implementations in Go.<br />
    - PostgreSQL databases.<br />
-   - Microsoft Azure Event Hubs.<br />
    - CI/CD with Microsoft Azure Pipelines.<br />
    - Monitoring and logs with Grafana and Splunk.<br />
 
@@ -51,7 +50,7 @@ Work experience
 
 :	*Junior Software Engineer*<i class="time">Jul 2017 - Feb 2020</i><br />
    - Design and develop of a new product formed by a REST API in .NET Core and a SPA in Vue.js.<br />
-   - Maintenance, improvement and develop new features in a legacy ASP.NET web app.<br />
+   - Maintenance, improvement and development of new features in a legacy ASP.NET web app.<br />
    - Development of an individual project consisting on a chatbot, integrable in the corporate web apps, powered by Microsoft Bot Framework and populated with a QnA Maker knowledge database.<br />
    - MySQL, SQL Server and CosmosDB databases.<br />
    - CI/CD with Microsoft Azure Pipelines.<br />
