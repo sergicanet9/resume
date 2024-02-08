@@ -25,7 +25,7 @@ Work experience
 :	*Senior Software Engineer*<i class="time">May 2022 - Present</i><br />
    - Build new microservices from scratch, written in Go and deployed in Kubernetes clusters.<br />
    - Scale current microservices to go live in new markets and improve code quality.<br />
-   - Help leading the team during Team Lead´s annual leaves, unblocking the team and making sure the job is delivered to reach the team goals.<br />
+   - Help leading the team during Team Lead´s annual leaves, unblocking the team and making sure the work is delivered successfully to reach the team goals.<br />
    - Help interviewing and hiring candidates for the department.<br />
    - Coordinate a Testing & Performance Guild for the department.
 
