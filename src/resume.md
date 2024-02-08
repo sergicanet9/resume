@@ -44,7 +44,7 @@ Work experience
    - Defining, developing and going live with customized ASP.NET MVC web apps from scratch.<br />
    - SQL Server databases.<br />
    - CI/CD with Microsoft Azure Pipelines.<br />
-   - Mentor two new graduate software engineers individually, and define their career growth plans.<br />
+   - Mentor two new graduate software engineers individually, and contribute to their growth plans.<br />
 
 <img class="logo" src="src/ctaima.png">
 :	[CTAIMA](https://www.ctaima.com)
