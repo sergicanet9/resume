@@ -43,15 +43,16 @@ Work experience
 :	*Software Engineer*<i class="time">Feb 2020 - Jan 2021</i><br />
    - Defining, developing and going live with customized ASP.NET MVC web apps from scratch.<br />
    - SQL Server databases.<br />
+   - CI/CD with Microsoft Azure Pipelines.<br />
    - Mentor two new graduate software engineers individually, and define their career growth plans.<br />
 
 <img class="logo" src="src/ctaima.png">
 :	[CTAIMA](https://www.ctaima.com)
 
 :	*Junior Software Engineer*<i class="time">Jul 2017 - Feb 2020</i><br />
-   - Design and development of a new product formed by a REST API in .NET Core and a Single Page Applicationapa in Vue.js.<br />
-   - Maintenance, improvement and new features development in a legacy ASP.NET web app.<br />
-   - Development of individual project consisting on a chatbot, integrable in the corporate web  apps, powered by Microsoft Bot Framework and populated with a QnA Maker knowledge database.<br />
+   - Design and develop of a new product formed by a REST API in .NET Core and an SPA in Vue.js.<br />
+   - Maintenance, improvement and develop new features in a legacy ASP.NET web app.<br />
+   - Development of an individual project consisting on a chatbot, integrable in the corporate web apps, powered by Microsoft Bot Framework and populated with a QnA Maker knowledge database.<br />
    - MySQL, SQL Server and CosmosDB databases.<br />
    - CI/CD with Microsoft Azure Pipelines.<br />
 <div class="page-break"></div>
@@ -95,6 +96,9 @@ Tech skills
 
 Certifications
 ---------
+2023
+:	Derivco Activate Your Leadership
+
 2021
 :	Microsoft AZ-900: Azure Fundamentals
 
