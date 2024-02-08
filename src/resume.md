@@ -68,7 +68,7 @@ Personal projects
 	[https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)<br />
 	REST API implementing Hexagonal Architecture (Ports & Adapters) making use of own scv-go-tools package.<br />
 
-Skills
+Tech skills
 ---------
 <table border="0">
  <tr>
