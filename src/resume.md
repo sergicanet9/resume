@@ -33,7 +33,6 @@ Work experience
    - Development, testing, integration and maintenance of microservices written in Go.<br />
    - Replacement of legacy projects written in Elixir with implementations in Go.<br />
    - PostgreSQL databases.<br />
-   - CI/CD with Microsoft Azure Pipelines.<br />
    - Monitoring and logs with Grafana and Splunk.<br />
 
 <img class="logo" src="src/andornet.png">
@@ -42,7 +41,6 @@ Work experience
 :	*Software Engineer*<i class="time">Feb 2020 - Jan 2021</i><br />
    - Defining, developing and going live with customized ASP.NET MVC web apps from scratch.<br />
    - SQL Server databases.<br />
-   - CI/CD with Microsoft Azure Pipelines.<br />
    - Mentor two new graduate software engineers individually, and contribute to their growth plans.<br />
 
 <img class="logo" src="src/ctaima.png">
@@ -53,7 +51,6 @@ Work experience
    - Maintenance, improvement and development of new features in a legacy ASP.NET web app.<br />
    - Development of an individual project consisting on a chatbot, integrable in the corporate web apps, powered by Microsoft Bot Framework and populated with a QnA Maker knowledge database.<br />
    - MySQL, SQL Server and CosmosDB databases.<br />
-   - CI/CD with Microsoft Azure Pipelines.<br />
 <div class="page-break"></div>
 
 Personal projects
