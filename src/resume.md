@@ -43,13 +43,13 @@ Work experience
 :	*Software Engineer*<i class="time">Feb 2020 - Jan 2021</i><br />
    - Defining, developing and going live with customized ASP.NET MVC web apps from scratch.<br />
    - SQL Server databases.<br />
-   - Mentor two new graduate software engineers individually, defining their growth plans aligned with the company.<br />
+   - Mentor two new graduate software engineers individually, and define their career growth plans.<br />
 
 <img class="logo" src="src/ctaima.png">
 :	[CTAIMA](https://www.ctaima.com)
 
 :	*Junior Software Engineer*<i class="time">Jul 2017 - Feb 2020</i><br />
-   - Design and development of a new product from scratch formed by a REST API in .NET Core and a Single Page Application in Vue.js.<br />
+   - Design and development of a new product formed by a REST API in .NET Core and a Single Page Applicationapa in Vue.js.<br />
    - Maintenance, improvement and new features development in a legacy ASP.NET web app.<br />
    - Development of individual project consisting on a chatbot, integrable in the corporate web  apps, powered by Microsoft Bot Framework and populated with a QnA Maker knowledge database.<br />
    - MySQL, SQL Server and CosmosDB databases.<br />
