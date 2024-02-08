@@ -23,13 +23,14 @@ Work experience
 :	[Derivco Sports](https://derivco.com)<br />
 
 :	*Senior Software Engineer*<i class="time">May 2022 - Present</i><br />
-   - Internal promotion to design and develop new projects from scratch, written in Go and deployed in Kubernetes clusters.<br />
+   - Build new microservices from scratch, written in Go and deployed in Kubernetes clusters.<br />
    - Scale current microservices to go live in new markets and improve code quality.<br />
-   - Queuing systems with Apache Kafka.<br />
+   - Help leading the team during Team Lead´s annual leaves, unblocking the team and making sure the job is delivered to reach the team goals.<br />
+   - Help interviewing and hiring candidates for the department.<br />
+   - Coordinate a Testing & Performance Guild for the department.
 
 :	*Software Engineer*<i class="time">Jan 2021 - May 2022</i><br />
-   - Development, testing, integration and maintenance of REST APIs written in Go.<br />
-   - Microservices architecture.<br />
+   - Development, testing, integration and maintenance of microservices written in Go.<br />
    - Replacement of legacy projects written in Elixir with implementations in Go.<br />
    - PostgreSQL databases.<br />
    - Microsoft Azure Event Hubs.<br />
@@ -40,8 +41,9 @@ Work experience
 :	[Andornet](https://www.andornet.ad)<br />
 
 :	*Software Engineer*<i class="time">Feb 2020 - Jan 2021</i><br />
-   - Development and maintenance of customized ASP.NET MVC web apps from scratch.<br />
+   - Defining, developing and going live with customized ASP.NET MVC web apps from scratch.<br />
    - SQL Server databases.<br />
+   - Mentor two new graduate software engineers individually, defining their growth plans aligned with the company.<br />
 
 <img class="logo" src="src/ctaima.png">
 :	[CTAIMA](https://www.ctaima.com)
