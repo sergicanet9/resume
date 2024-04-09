@@ -34,7 +34,7 @@ Work experience
    - Build new microservices from scratch, written in Go and deployed in Kubernetes clusters.<br />
    - Scale current microservices to go live in new markets and improve code quality.<br />
    - Help leading the team during Team Lead´s annual leaves, unblocking the team and making sure the work is delivered successfully to reach the team goals.<br />
-   - Help interviewing candidates for the department.
+   - Help interviewing candidates for the department.<br />
    - Coordinate a Testing & Performance Guild for the department.<br />
 
 :	*Software Engineer*<i class="time">Jan 2021 - May 2022</i><br />
