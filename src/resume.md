@@ -23,7 +23,7 @@ Work experience
 :	[Derivco Sports](https://derivco.com)<br />
 
 :	*Software Engineering Manager*<i class="time">Feb 2024 - Present</i><br />
-   - Lead and manage nine Software Engineers and one Tech Lead, establishing processes to optimize quality and efficiency.<br />
+   - Lead and manage nine Software Engineers and one Tech Lead, establishing and refining processes to optimize quality and efficiency.<br />
    - Conduct individual performance evaluations to foster growth and continuous improvement.<br />
    - Promote a culture of innovation and collaboration, encouraging knowledge sharing and learning initiatives.<br />
    - Define and execute the technical vision, strategy and roadmap, aligned with the company goals.<br />
