@@ -1,7 +1,7 @@
 <img class="profile" src="src/profile.png">
 
 # Sergi Canet Vela
-### Senior Software Engineer
+### Software Engineering Manager
 
 Contact details
 ---------
