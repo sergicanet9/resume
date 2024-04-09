@@ -59,7 +59,7 @@ Work experience
    - Development of an individual project consisting on a chatbot, integrable in the corporate web apps, powered by Microsoft Bot Framework and populated with a QnA Maker knowledge database.<br />
    - SQL Server and CosmosDB databases.<br />
 
-:	*Junior Software Engineer*<i class="time">Jul 2017 - Jan 2020</i><br />
+:	*Junior Software Engineer*<i class="time">Jul 2017 - Jan 2019</i><br />
    - Maintenance, improvement and development of new features in a legacy ASP.NET web app.<br />
    - MySQL databases.<br />
 <div class="page-break"></div>
