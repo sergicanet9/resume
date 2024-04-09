@@ -25,15 +25,16 @@ Work experience
 :	*Software Engineering Manager*<i class="time">Feb 2024 - Present</i><br />
    - Lead and manage nine Software Engineers and one Tech Lead, establishing processes to optimize quality and efficiency.<br />
    - Conduct individual performance evaluations to foster growth and continuous improvement.<br />
-   - Promote a culture of innovation and collaboration, encouraging knowledge sharing and learning initiatives. <br />
+   - Promote a culture of innovation and collaboration, encouraging knowledge sharing and learning initiatives.<br />
    - Define and execute the technical vision, strategy and roadmap, aligned with the company goals.<br />
-   - Collaborate with product management and operations teams to prioritize features that enhance product value.<br />
-   - Participate in conducting interviews and assessing candidates for technical and cultural fit.<br />
+   - Collaborate with product and operations teams to prioritize features that enhance product value.<br />
+   - Help hiring conducting interviews and assessing candidates for technical and cultural fit.<br />
 
 :	*Senior Software Engineer*<i class="time">May 2022 - Feb 2024</i><br />
    - Build new microservices from scratch, written in Go and deployed in Kubernetes clusters.<br />
    - Scale current microservices to go live in new markets and improve code quality.<br />
    - Help leading the team during Team Lead´s annual leaves, unblocking the team and making sure the work is delivered successfully to reach the team goals.<br />
+   - Help interviewing candidates for the department.
    - Coordinate a Testing & Performance Guild for the department.<br />
 
 :	*Software Engineer*<i class="time">Jan 2021 - May 2022</i><br />
