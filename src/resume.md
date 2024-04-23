@@ -146,5 +146,5 @@ Languages
 
 ------
 > [Online version](https://www.sergicanet.com) |
-[Download PDF](https://www.sergicanet.com/resume-sergi-canet.pdf) |
+[PDF](https://www.sergicanet.com/resume-sergi-canet.pdf) |
 [GitHub repository](https://github.com/sergicanet9/resume)
