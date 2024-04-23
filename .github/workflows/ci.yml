@@ -14,7 +14,7 @@ jobs:
       - name: Generate html file
         uses: docker://pandoc/core:2.9
         with:
-          args: --standalone -c ../src/style.css -o out/index.html src/resume.md
+          args: --standalone -c src/style.css -o index.html src/resume.md
       - name: Generate pdf file
         run: |
           sudo apt-get update 
@@ -22,12 +22,12 @@ jobs:
           sudo wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz 
           sudo tar xvf wkhtmltox-0.12.4_linux-generic-amd64.tar.xz 
           sudo mv wkhtmltox/bin/wkhtmltopdf /usr/bin 
-          xvfb-run wkhtmltopdf --margin-left 14 --margin-right 14 --margin-top 12 --margin-bottom 12 out/index.html out/resume-sergi-canet.pdf
+          xvfb-run wkhtmltopdf --margin-left 14 --margin-right 14 --margin-top 12 --margin-bottom 12 index.html resume-sergi-canet.pdf
       - name: Commit changes
         run: |
           git config --local user.email "s.canet9@outlook.com"
           git config --local user.name "Sergi Canet"
-          git add out/index.html out/resume-sergi-canet.pdf
+          git add index.html resume-sergi-canet.pdf
           git commit -m "chore: Generate html and pdf files"
       - name: Push changes
         uses: ad-m/github-push-action@master
