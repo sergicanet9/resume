@@ -14,7 +14,7 @@ jobs:
       - name: Generate html file
         uses: docker://pandoc/core:2.9
         with:
-          args: --standalone -c src/style.css -o out/index.html src/resume.md
+          args: --standalone -c ../src/style.css -o out/index.html src/resume.md
       - name: Generate pdf file
         run: |
           sudo apt-get update 
