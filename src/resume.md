@@ -6,7 +6,7 @@
 Contact details
 ---------
 <span class="fas fa-envelope fa-lg"></span>
-:  <a href="mailto:s.canet9@outlook.com">s.canet9@outlook.com</a><br />
+:  <a href="mailto:sergi@sergicanet.com">sergi@sergicanet.com</a><br />
 
 <span class="fab fa-linkedin fa-lg"></span>
 :  [https://www.linkedin.com/in/sergi-canet](https://www.linkedin.com/in/sergi-canet)<br />
@@ -23,7 +23,7 @@ Work experience
 :	[Derivco Sports](https://derivco.com)<br />
 
 :	*Software Engineering Manager*<i class="time">Feb 2024 - Present</i><br />
-   - Lead and manage nine Software Engineers and one Tech Lead, distributed in multiple countries, establishing and refining processes to optimize quality and efficiency.<br />
+   - Lead and manage Software Engineers and Tech Leads, distributed in multiple countries, establishing and refining processes to optimize quality and efficiency.<br />
    - Conduct individual performance evaluations to foster growth and continuous improvement.<br />
    - Promote a culture of innovation and collaboration, encouraging knowledge sharing and learning initiatives.<br />
    - Define and execute the technical vision, strategy and roadmap, aligned with the company goals.<br />
@@ -145,6 +145,6 @@ Languages
 <br />
 
 ------
-> [Online version](https://htmlpreview.github.io/?https://github.com/sergicanet9/resume/blob/main/index.html) |
-[Download PDF](https://raw.githubusercontent.com/sergicanet9/resume/main/resume-sergi-canet.pdf) |
+> [Online version](https://www.sergicanet.com) |
+[Download PDF](https://www.sergicanet.com/resume-sergi-canet.pdf) |
 [GitHub repository](https://github.com/sergicanet9/resume)
