@@ -3,8 +3,8 @@ on:
   push:
     branches:
       - main
-    # paths:
-    #   - src/** // TODO Uncomment
+    paths:
+      - src/**
 
 jobs:
   generate-html-and-pdf:
