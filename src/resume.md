@@ -1,4 +1,4 @@
-<img class="profile" src="src/profile.png">
+<img class="profile" src="../src/profile.png">
 
 # Sergi Canet Vela
 ### Software Engineering Manager
@@ -19,7 +19,7 @@ Contact details
 
 Work experience
 ----------
-<img class="logo" src="src/derivco.png">
+<img class="logo" src="../src/derivco.png">
 :	[Derivco Sports](https://derivco.com)<br />
 
 :	*Software Engineering Manager*<i class="time">Feb 2024 - Present</i><br />
@@ -43,7 +43,7 @@ Work experience
    - PostgreSQL databases.<br />
    - Monitoring and logs with Grafana and Splunk.<br />
 
-<img class="logo" src="src/andornet.png">
+<img class="logo" src="../src/andornet.png">
 :	[Andornet](https://www.andornet.ad)<br />
 
 :	*Software Engineer*<i class="time">Feb 2020 - Jan 2021</i><br />
@@ -51,7 +51,7 @@ Work experience
    - SQL Server databases.<br />
    - Implement CI/CD in existing company projects.<br />
 
-<img class="logo" src="src/ctaima.png">
+<img class="logo" src="../src/ctaima.png">
 :	[CTAIMA](https://www.ctaima.com)
 
 :	*Software Engineer*<i class="time">Jan 2019 - Feb 2020</i><br />
