@@ -22,7 +22,7 @@ jobs:
           sudo wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz 
           sudo tar xvf wkhtmltox-0.12.4_linux-generic-amd64.tar.xz 
           sudo mv wkhtmltox/bin/wkhtmltopdf /usr/bin 
-          xvfb-run wkhtmltopdf --margin-left 14 --margin-right 14 --margin-top 12 --margin-bottom 12 index.html resume-sergi-canet.pdf
+          xvfb-run wkhtmltopdf --print-media-type --margin-left 14 --margin-right 14 --margin-top 12 --margin-bottom 12 index.html resume-sergi-canet.pdf
       - name: Commit changes
         run: |
           git config --local user.email "s.canet9@outlook.com"

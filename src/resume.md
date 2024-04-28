@@ -5,6 +5,8 @@
 
 Contact details
 ---------
+<div class="flex-container">
+<div class="flex-contact">
 <span class="fas fa-envelope fa-lg"></span>
 :  <a href="mailto:sergi@sergicanet.com">sergi@sergicanet.com</a><br />
 
@@ -16,6 +18,10 @@ Contact details
 
 <span class="fa fa-map-marker fa-lg"></span>
 :  Barcelona, Spain
+</div>
+
+<div class="flex-qr"><img src="src/qr.png"></div>
+</div>
 
 Work experience
 ----------

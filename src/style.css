@@ -43,6 +43,37 @@ body {
     margin-top: -2px;
 }
 
+.flex-container {
+    display: -webkit-box;
+    display: flex;
+    flex-direction: row;
+}
+
+@media not print {
+    @media (max-width: 620px) {
+        .flex-container {
+            flex-direction: column;
+        }
+    }
+}
+
+.flex-contact {
+    -webkit-box-flex: 8;
+    flex: 80%;
+}
+
+.flex-qr {
+    -webkit-box-flex: 1;
+    flex: 20%;
+    margin-top: -4px;
+    margin-bottom: -4px;
+    text-align: center;
+}
+
+.flex-qr img {
+    width: 115px;
+}
+
 /* Title of the resume */
 h1 {
     font-size: 43px;
@@ -97,7 +128,7 @@ dd {
 
 dl {
     margin-top: 0px;
-} 
+}
 
 p {
     margin-top: 0;
@@ -131,18 +162,24 @@ em {
     color: #757575;
 }
 
-@media all {
-    .page-break {
-        display: none;
+@media not print {
+    @media (max-width: 620px) {
+        em {
+            display: block;
+        }
     }
 }
 
-@media print {
+.page-break {
+    display: none;
+}
+
+/* @media print {
     .page-break {
         display: block;
         page-break-before: always;
     }
-}
+} */
 
 table {
     table-layout: fixed;
