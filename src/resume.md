@@ -5,8 +5,8 @@
 
 Contact details
 ---------
-<div class="parent">
-<div class="child" display="inline-block">
+<div>
+<div display="inline-block" vertical-align="middle" width="75%">
    <span class="fas fa-envelope fa-lg"></span>
    :  <a href="mailto:sergi@sergicanet.com">sergi@sergicanet.com</a><br />
 
@@ -19,7 +19,7 @@ Contact details
    <span class="fa fa-map-marker fa-lg"></span>
    :  Barcelona, Spain
 </div>
-<div class="child" display="inline-block">
+<div display="inline-block" vertical-align="middle" width="75%">
    <img src="src/qr.png"></img>
 </div>
 </div>
