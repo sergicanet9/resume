@@ -48,7 +48,7 @@ body {
     flex-direction: row;
 }
 
-@media (max-width: 620px) {
+@media all and (max-width: 620px) {
     .flex-container {
         flex-direction: column;
     }
@@ -157,7 +157,7 @@ em {
     color: #757575;
 }
 
-@media (max-width: 620px) {
+@media all and (max-width: 620px) {
     em {
         display: block;
     }
