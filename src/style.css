@@ -57,6 +57,10 @@ body {
     margin-top: -2px;
 }
 
+.qr img {
+    width: 100%;
+}
+
 /* Title of the resume */
 h1 {
     font-size: 43px;
