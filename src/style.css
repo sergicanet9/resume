@@ -65,6 +65,7 @@ body {
 .flex-qr {
     -webkit-box-flex: 1;
     -webkit-flex: 1;
+    -webkit-box-align: center;
     flex: 20%;
     margin-top: -4px;
     margin-bottom: -4px;
