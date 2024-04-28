@@ -45,7 +45,7 @@ body {
 
 .flex-container {
     display: -webkit-box;
-    -webkit-box-pack: center;
+    /* -webkit-box-pack: center; */
     display: flex;
     flex-direction: row;
 }
@@ -58,14 +58,14 @@ body {
 
 .flex-contact {
     -webkit-box-flex: 1;
-    -webkit-flex: 1;
+    /* -webkit-flex: 1; */
     flex: 80%;
 }
 
 .flex-qr {
     -webkit-box-flex: 1;
-    -webkit-flex: 1;
-    -webkit-box-align: center;
+    /* -webkit-flex: 1;
+    -webkit-box-align: center; */
     flex: 20%;
     margin-top: -4px;
     margin-bottom: -4px;
