@@ -19,7 +19,7 @@ Contact details
 :  Barcelona, Spain
 </div>
 
-<p class="qr"><img src="src/qr.png"></p>
+<div class="qr"><img src="src/qr.png"></div>
 
 Work experience
 ----------
