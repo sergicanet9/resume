@@ -2,9 +2,9 @@ name: CI
 on:
   push:
     branches:
-      - add-qr
-    # paths:
-      # - src/**
+      - main
+    paths:
+      - src/**
 
 jobs:
   generate-html-and-pdf:
@@ -33,4 +33,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ github.token }}
-          branch: add-qr
+          branch: main
