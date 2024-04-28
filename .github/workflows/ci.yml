@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - add-qr
-    paths:
+    # paths:
       # - src/**
 
 jobs:

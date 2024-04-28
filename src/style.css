@@ -48,9 +48,11 @@ body {
     flex-direction: row;
 }
 
-@media screen and (max-width: 620px) {
-    .flex-container {
-        flex-direction: column;
+@media not print {
+    @media (max-width: 620px) {
+        .flex-container {
+            flex-direction: column;
+        }
     }
 }
 
@@ -157,9 +159,11 @@ em {
     color: #757575;
 }
 
-@media screen and (max-width: 620px) {
-    em {
-        display: block;
+@media not print {
+    @media (max-width: 620px) {
+        em {
+            display: block;
+        }
     }
 }
 
