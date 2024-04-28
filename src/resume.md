@@ -5,21 +5,21 @@
 
 Contact details
 ---------
-<div display="inline-block" vertical-align="middle" width="75%">
-   <span class="fas fa-envelope fa-lg"></span>
-   :  <a href="mailto:sergi@sergicanet.com">sergi@sergicanet.com</a><br />
+<div style="display:inline-block; vertical-align:middle; width:75%">
+<span class="fas fa-envelope fa-lg"></span>
+:  <a href="mailto:sergi@sergicanet.com">sergi@sergicanet.com</a><br />
 
-   <span class="fab fa-linkedin fa-lg"></span>
-   :  [https://www.linkedin.com/in/sergi-canet](https://www.linkedin.com/in/sergi-canet)<br />
+<span class="fab fa-linkedin fa-lg"></span>
+:  [https://www.linkedin.com/in/sergi-canet](https://www.linkedin.com/in/sergi-canet)<br />
 
-   <span class="fab fa-github fa-lg"></span>
-   :  [https://github.com/sergicanet9](https://github.com/sergicanet9)<br />
+<span class="fab fa-github fa-lg"></span>
+:  [https://github.com/sergicanet9](https://github.com/sergicanet9)<br />
 
-   <span class="fa fa-map-marker fa-lg"></span>
-   :  Barcelona, Spain
+<span class="fa fa-map-marker fa-lg"></span>
+:  Barcelona, Spain
 </div>
-<div display="inline-block" vertical-align="middle" width="75%">
-   <img src="src/qr.png"></img>
+<div style="display:inline-block; vertical-align:middle; width:20%">
+   <img src="src/qr.png" style="width: 20%;"></img>
 </div>
 
 Work experience
