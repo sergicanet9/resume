@@ -43,6 +43,20 @@ body {
     margin-top: -2px;
 }
 
+.contact {
+    display: inline-block;
+    vertical-align: middle;
+    width: 79%;
+    margin-bottom: -2px;
+}
+
+.qr {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20%;
+    margin-top: -2px;
+}
+
 /* Title of the resume */
 h1 {
     font-size: 43px;
@@ -97,7 +111,7 @@ dd {
 
 dl {
     margin-top: 0px;
-} 
+}
 
 p {
     margin-top: 0;
