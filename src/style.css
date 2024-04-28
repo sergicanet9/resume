@@ -158,7 +158,7 @@ em {
 }
 
 @media (max-width: 620px) {
-    .em {
+    em {
         display: block;
     }
 }
