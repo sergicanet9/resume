@@ -157,6 +157,12 @@ em {
     color: #757575;
 }
 
+@media (max-width: 620px) {
+    .em {
+        display: block;
+    }
+}
+
 @media all {
     .page-break {
         display: none;
@@ -180,11 +186,4 @@ table {
 .time {
     float: right;
     font-size: 14px;
-}
-
-@media (max-width: 620px) {
-    .time {
-        display: block;
-        margin-bottom: -20px;
-    }
 }
