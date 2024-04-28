@@ -49,7 +49,8 @@ body {
     flex-direction: row;
 }
 
-@media screen and (max-width: 620px) {
+@media not print {
+    @media (max-width: 620px) {
     .flex-container {
         flex-direction: column;
     }
@@ -160,9 +161,11 @@ em {
     color: #757575;
 }
 
-@media screen and (max-width: 620px) {
-    em {
-        display: block;
+@media not print {
+    @media (max-width: 620px) {
+        em {
+            display: block;
+        }
     }
 }
 
@@ -170,12 +173,12 @@ em {
     display: none;
 }
 
-@media print {
+/* @media print {
     .page-break {
         display: block;
         page-break-before: always;
     }
-}
+} */
 
 table {
     table-layout: fixed;
