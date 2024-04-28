@@ -62,6 +62,7 @@ body {
     flex: 20%;
     margin-top: -4px;
     margin-bottom: -4px;
+    text-align: center;
 }
 
 .flex-qr img {
@@ -179,4 +180,11 @@ table {
 .time {
     float: right;
     font-size: 14px;
+}
+
+@media (max-width: 620px) {
+    .time {
+        display: block;
+        margin-bottom: -20px;
+    }
 }
