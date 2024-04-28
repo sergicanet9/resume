@@ -48,11 +48,11 @@ body {
     flex-direction: row;
 }
 
-@media (max-width: 62px) {
+/* @media (max-width: 62px) {
     .flex-container {
         flex-direction: column;
     }
-}
+} */
 
 .flex-contact {
     flex: 80%;
@@ -157,11 +157,11 @@ em {
     color: #757575;
 }
 
-@media (max-width: 62px) {
+/* @media (max-width: 62px) {
     em {
         display: block;
     }
-}
+} */
 
 .page-break {
     display: none;
