@@ -57,7 +57,7 @@ body {
 } */
 
 .flex-contact {
-    -webkit-box-flex: 8;
+    -webkit-box-flex: 10;
     /* -webkit-flex: 1; */
     flex: 80%;
 }
