@@ -2,7 +2,7 @@ name: CI
 on:
   push:
     branches:
-      - main
+      - add-qr
     paths:
       - src/**
 
@@ -33,4 +33,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ github.token }}
-          branch: main
+          branch: add-qr
