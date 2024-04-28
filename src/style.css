@@ -49,11 +49,11 @@ body {
     flex-direction: row;
 }
 
-/* @media (max-width: 62px) {
+@media screen and (max-width: 620px) {
     .flex-container {
         flex-direction: column;
     }
-} */
+}
 
 .flex-contact {
     -webkit-box-flex: 8;
@@ -160,11 +160,11 @@ em {
     color: #757575;
 }
 
-/* @media (max-width: 62px) {
+@media screen and (max-width: 620px) {
     em {
         display: block;
     }
-} */
+}
 
 .page-break {
     display: none;
