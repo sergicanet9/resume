@@ -5,7 +5,7 @@
 
 Contact details
 ---------
-<div style="display:inline-block; vertical-align:middle; width:75%">
+<div style="display:inline-block; vertical-align:middle; width:79%">
 <span class="fas fa-envelope fa-lg"></span>
 :  <a href="mailto:sergi@sergicanet.com">sergi@sergicanet.com</a><br />
 
@@ -19,7 +19,7 @@ Contact details
 :  Barcelona, Spain
 </div>
 <div style="display:inline-block; vertical-align:middle; width:20%">
-   <img src="src/qr.png" style="width: 20%;"></img>
+   <img src="src/qr.png" style="width: 100%;"></img>
 </div>
 
 Work experience
