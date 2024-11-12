@@ -109,9 +109,6 @@ Tech skills
 
 Certifications
 ---------
-2023
-:	Derivco Activate Your Leadership
-
 2021
 :	Microsoft AZ-900: Azure Fundamentals
 
