@@ -129,6 +129,10 @@ Certifications
 
 Education
 ---------
+Current
+:	*Executive MBA*<br />
+	[EAE Business School](https://www.eae.es)
+
 2022
 :	*Master’s Degree in Data Science*<br />
 	[Universitat Oberta de Catalunya](https://www.uoc.edu)
