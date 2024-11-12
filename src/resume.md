@@ -149,7 +149,6 @@ Languages
 </table>
 
 <br />
-<br />
 
 ------
 > [Online version](https://www.sergicanet.com) |
