@@ -26,7 +26,7 @@ Contact details
 Work experience
 ----------
 <img class="logo" src="src/derivco.png">
-:	[Derivco Sports](https://derivco.com)<br />
+:	[Derivco](https://www.derivco.com)<br />
 
 :	*Software Engineering Manager*<i class="time">Feb 2024 - Present</i><br />
    - Lead and manage Software Engineers and Tech Leads distributed in multiple countries, establishing and refining processes to optimize quality and efficiency.<br />
@@ -82,28 +82,28 @@ Personal projects
 	[https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)<br />
 	REST API implementing Hexagonal Architecture (Ports & Adapters) making use of own scv-go-tools package.<br />
 
-Tech skills
+Skills
 ---------
 <table border="0">
  <tr>
+    <td>Strategy</td>
+    <td>People Management</td>
+    <td>Leadership</td>
+ </tr>
+ <tr>
+    <td>Distributed Systems</td>
+    <td>.NET</td>
     <td>Go</td>
-    <td>.NET C#</td>
-    <td>Javascript</td>
  </tr>
  <tr>
-    <td>Testing</td>
-    <td>CI/CD</td>
-    <td>Docker & Kubernetes</td>
- </tr>
- <tr>
-    <td>SQL</td>
-    <td>MongoDB</td>
-    <td>Cosmos DB</td>
- </tr>
- <tr>
-    <td>Git</td>
-    <td>Microsoft Azure</td>
     <td>REST APIs</td>
+    <td>gRPC</td>
+    <td>Containerization</td>
+ </tr>
+ <tr>
+    <td>Software Testing</td>
+    <td>CI/CD</td>
+    <td>Agile Methodologies</td>
  </tr>
 </table>
 
@@ -126,7 +126,7 @@ Certifications
 
 Education
 ---------
-Current
+Present
 :	*Executive MBA*<br />
 	[EAE Business School](https://www.eae.es)
 
