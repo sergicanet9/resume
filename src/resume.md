@@ -30,7 +30,7 @@ Work experience
 
 :	*Software Engineering Manager*<i class="time">Feb 2024 - Present</i><br />
    - Lead high performing Software Engineers and Tech Leads across multiple countries, driving the development of critical backend services in a high throughput Sportsbook system.<br />
-   - Oversee two strategic domains: one managing logins and real time betting operations, the other delivering a newly architected rewards engine from scratch, with high potential for revenue growth.<br />
+   - Oversee two strategic domains: one managing logins and real time betting transactions, the other delivering a newly architected rewards engine from scratch, with high potential for revenue growth.<br />
    - Partner with Product, Operations and other Engineering teams to align priorities, shape the roadmap and deliver high impact features that align with business goals and enhance product value.<br />
    - Foster an engineering culture of collaboration, knowledge sharing and continuous improvement.<br />
    - Conduct interviews and assess candidates for technical skills and cultural fit.<br />
