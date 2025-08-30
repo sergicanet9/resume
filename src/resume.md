@@ -79,7 +79,7 @@ Personal projects
 <span></span>
 :	*go-hexagonal-api*<br />
 	[https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)<br />
-	A robust REST API for user management built with Go and implementing the Hexagonal Architecture (Ports & Adapters) pattern. It makes use of own scv-go-tools package.<br />
+	A robust API for user management built with Go and implementing the Hexagonal Architecture (Ports & Adapters) pattern. It makes use of own scv-go-tools package.<br />
 
 Skills
 ---------
