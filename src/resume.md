@@ -49,7 +49,7 @@ Work experience
    - Monitoring and logs with Grafana and Splunk.<br />
 
 <img class="logo" src="src/andornet.png">
-:	[Andornet](https://www.andornet.ad)<br />
+:	[Andornet](https://www.andornet.ad/en)<br />
 
 :	*Software Engineer*<i class="time">Feb 2020 - Jan 2021</i><br />
    - Defining, developing and going live with customized ASP.NET MVC web apps from scratch.<br />
@@ -57,7 +57,7 @@ Work experience
    - Implement CI/CD in existing company projects.<br />
 
 <img class="logo" src="src/ctaima.png">
-:	[CTAIMA](https://www.ctaima.com)
+:	[CTAIMA](https://ctaima.net)
 
 :	*Software Engineer*<i class="time">Jan 2019 - Feb 2020</i><br />
    - Design and develop of a new product formed by a REST API in .NET Core and a SPA in Vue.js.<br />
@@ -128,13 +128,13 @@ Certifications
 Education
 ---------
 Present
-:	*Executive MBA* · <a href="https://www.eae.es/en" class="with-icon">EAE Business School</a>
+:	*Executive MBA* · [EAE Business School](https://www.eae.es/en)
 
 2022
-:	*Master’s Degree in Data Science* · <a href="https://www.uoc.edu/en" class="with-icon">Universitat Oberta de Catalunya</a>
+:	*Master’s Degree in Data Science* · [Universitat Oberta de Catalunya](https://www.uoc.edu/en)
 
 2019
-:	*Computer Enginnering Degree* · <a href="https://www.urv.cat/en" class="with-icon">Universitat Rovira i Virgili</a>
+:	*Computer Enginnering Degree* · [Universitat Rovira i Virgili](https://www.urv.cat/en)
 
 Languages
 ---------
