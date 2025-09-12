@@ -107,7 +107,7 @@ h3 {
     font-size: 23px;
     color: #757575;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     margin-top: 10px;
 }
 
@@ -122,7 +122,7 @@ dt {
 
 dd {
     margin-left: 11%;
-    margin-bottom: 0px;
+    margin-bottom: 2px;
     text-align: justify;
 }
 

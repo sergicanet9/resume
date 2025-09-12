@@ -72,18 +72,15 @@ Work experience
 Personal projects
 ----------
 <span></span>
-:	*scv-go-tools*
-	[https://github.com/sergicanet9/scv-go-tools](https://github.com/sergicanet9/scv-go-tools)<br />
+:	[*scv-go-tools*](https://github.com/sergicanet9/scv-go-tools)<br />
 	Toolkit for building REST and gRPC APIs in Go, structured around clean architecture principles.<br />
 
 <span></span>
-:	*go-hexagonal-api*
-	[https://github.com/sergicanet9/go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)<br />
+:	[*go-hexagonal-api*](https://github.com/sergicanet9/go-hexagonal-api)<br />
 	A robust gRPC + REST API for user management built with Go and implementing the Hexagonal Architecture (Ports & Adapters) pattern, built on top of the scv-go-tools library.<br />
 
 <span></span>
-:	*go-microservices-demo*
-	[https://github.com/sergicanet9/go-microservices-demo](https://github.com/sergicanet9/go-microservices-demo)<br />
+:	[*go-microservices-demo*](https://github.com/sergicanet9/go-microservices-demo)<br />
 	A lightweight Go microservices demo showcasing gRPC and HTTP communication, built on top of the scv-go-tools library and using go-hexagonal-api as a backend service.<br />
 
 Skills
