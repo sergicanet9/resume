@@ -72,15 +72,15 @@ Work experience
 Personal projects
 ----------
 <span></span>
-:	[scv-go-tools](https://github.com/sergicanet9/scv-go-tools)<br />
+:	<a>[scv-go-tools](https://github.com/sergicanet9/scv-go-tools)</a><br />
 	Toolkit for building REST and gRPC APIs in Go, structured around clean architecture principles.<br />
 
 <span></span>
-:	[go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)<br />
+:	<a>[go-hexagonal-api](https://github.com/sergicanet9/go-hexagonal-api)</a><br />
 	A robust gRPC + REST API for user management built with Go and implementing the Hexagonal Architecture (Ports & Adapters) pattern, built on top of the scv-go-tools library.<br />
 
 <span></span>
-:	[go-microservices-demo](https://github.com/sergicanet9/go-microservices-demo)<br />
+:	<a>[go-microservices-demo](https://github.com/sergicanet9/go-microservices-demo)</a><br />
 	A lightweight Go microservices demo showcasing gRPC and HTTP communication, built on top of the scv-go-tools library and using go-hexagonal-api as a backend service.<br />
 
 Skills
@@ -128,16 +128,13 @@ Certifications
 Education
 ---------
 Present
-:	*Executive MBA*<br />
-	[EAE Business School](https://www.eae.es)
+:	*Executive MBA* · [EAE Business School](https://www.eae.es)
 
 2022
-:	*Master’s Degree in Data Science*<br />
-	[Universitat Oberta de Catalunya](https://www.uoc.edu)
+:	*Master’s Degree in Data Science* · [Universitat Oberta de Catalunya](https://www.uoc.edu)
 
 2019
-:	*Computer Enginnering Degree*<br />
-	[Universitat Rovira i Virgili](https://www.urv.cat)
+:	*Computer Enginnering Degree* · [Universitat Rovira i Virgili](https://www.urv.cat)
 
 Languages
 ---------
