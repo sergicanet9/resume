@@ -152,6 +152,12 @@ a:active {
     text-decoration: underline;
 }
 
+a[href^="http"]::after {
+  content: "↗";
+  font-size: 0.8em;
+  margin-left: 0.2em;
+}
+
 /* Horizontal separators */
 hr {
     color: #A6A6A6;
