@@ -128,13 +128,13 @@ Certifications
 Education
 ---------
 Present
-:	*Executive MBA* · [EAE Business School](https://www.eae.es)
+:	*Executive MBA* · <a href="https://www.eae.es/en" class="with-icon">EAE Business School</a>
 
 2022
-:	*Master’s Degree in Data Science* · [Universitat Oberta de Catalunya](https://www.uoc.edu)
+:	*Master’s Degree in Data Science* · <a href="https://www.uoc.edu/en" class="with-icon">Universitat Oberta de Catalunya</a>
 
 2019
-:	*Computer Enginnering Degree* · [Universitat Rovira i Virgili](https://www.urv.cat)
+:	*Computer Enginnering Degree* · <a href="https://www.urv.cat/en" class="with-icon">Universitat Rovira i Virgili</a>
 
 Languages
 ---------
