@@ -109,18 +109,20 @@ Skills
 
 Certifications
 ---------
-<table border="0">
- <tr>
-    <td>Microsoft AZ-900: Azure Fundamentals</td>
-    <td>Microsoft 70-483: Programming in C#</td>
-    <td>Azure Devops Assessment (18473)</td>
- </tr>
- <tr>
-    <td>Microsoft Technology Associate (MTA)</td>
-    <td>Cambridge English: Advanced (C1)</td>
-    <td>Etc</td>
- </tr>
-</table>
+2021
+:	Microsoft AZ-900: Azure Fundamentals
+
+2019
+:	Microsoft 70-483: Programming in C#
+
+2019
+:	Azure Devops Assessment (18473)
+
+2018
+:	Microsoft Technology Associate (MTA)
+
+2016
+:	Cambridge English: Advanced (C1)
 
 Education
 ---------
