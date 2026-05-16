@@ -25,8 +25,8 @@ Contact details
 
 Work experience
 ----------
-<img class="logo" src="src/supergroup.png">
-:	[Derivco](https://www.derivco.com)<br />
+<img class="logo" src="src/supergroup_2.png">
+:	[Super Group (SGHC)](https://supegroup.com)<br />
 
 :	*Software Engineering Manager*<i class="time">Jun 2026 - Present</i><br />
    - Text...<br />
