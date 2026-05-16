@@ -25,63 +25,67 @@ Contact details
 
 Work experience
 ----------
+<img class="logo" src="src/supergroup.png">
+:	[Super Group (SGHC)](https://supergroup.com)<br />
+
+:	*Software Engineering Manager*<i class="time">Jun 2026 - Present</i><br />
+   - Lead the technical transition from Derivco's legacy infrastructure to Super Group’s cloud environment, following the strategic acquisition of Derivco's Sportsbook.<br />
+   - Orchestrate the unification of the two Sportsbook platforms, integrating Africa's Player Account Management system into our global platform and migrating all betting transactions.<br />
+   - Spearhead the adoption of new corporate coding standards in Go and drive the transition to MongoDB across core backend systems, shifting towards a full data ownership model.<br />
+   - Align with corporate stakeholders, Product, Operations and Site Reliability Engineering teams to mitigate risks and guarantee seamless product delivery during the migration phase.<br />
+
 <img class="logo" src="src/derivco.png">
 :	[Derivco](https://www.derivco.com)<br />
 
-:	*Software Engineering Manager*<i class="time">Feb 2024 - Present</i><br />
+:	*Software Engineering Manager*<i class="time">Feb 2024 - Jun 2026</i><br />
    - Lead high performing Software Engineers and Tech Leads across multiple countries, driving the development of critical distributed backend services in a high throughput Sportsbook system.<br />
-   - Oversee two strategic domains: one managing logins and real time betting transactions, the other delivering a newly architected rewards engine from scratch, with high potential for revenue growth.<br />
+   - Oversee two strategic domains: one managing logins and real time betting transactions, the other delivering a newly architected rewards engine from scratch driving revenue growth.<br />
    - Partner with Product, Operations and other Engineering teams to align priorities, shape the roadmap and deliver high impact features that align with business goals and enhance product value.<br />
-   - Foster an engineering culture of collaboration, knowledge sharing and continuous improvement.<br />
-   - Conduct interviews and assess candidates for technical skills and cultural fit.<br />
+   - Scale the engineering organisation by hiring, designing growth paths and fostering a culture of high performance, collaboration and continuous improvement.<br />
 
 :	*Senior Software Engineer*<i class="time">May 2022 - Feb 2024</i><br />
    - Build new microservices from scratch, written in Go and deployed in Kubernetes clusters.<br />
    - Scale current microservices to go live in new markets and improve code quality.<br />
-   - Help leading the team during Team Lead´s annual leaves, unblocking the team and making sure the work is delivered successfully to reach the team goals.<br />
-   - Help interviewing candidates for the department.<br />
+   - Act as interim Team Lead, unblocking engineers to ensure delivery and supporting technical hiring.<br />
    - Coordinate a Testing & Performance Guild for the department.<br />
 
 :	*Software Engineer*<i class="time">Jan 2021 - May 2022</i><br />
-   - Development, testing, integration and maintenance of microservices written in Go.<br />
-   - Replacement of legacy projects written in Elixir with implementations in Go.<br />
-   - PostgreSQL databases.<br />
-   - Monitoring and logs with Grafana and Splunk.<br />
+   - Develop, test, integrate, and maintain microservices written in Go.<br />
+   - Replace legacy projects written in Elixir with implementations in Go.<br />
+   - Manage PostgreSQL databases.<br />
+   - Monitor systems and logs using Grafana and Splunk.<br />
 
 <img class="logo" src="src/andornet.png">
 :	[Andornet](https://www.andornet.ad/en)<br />
 
 :	*Software Engineer*<i class="time">Feb 2020 - Jan 2021</i><br />
-   - Defining, developing and going live with customized ASP.NET MVC web apps from scratch.<br />
-   - SQL Server databases.<br />
+   - Define, develop, and go live with customized ASP.NET MVC web apps from scratch.<br />
+   - Manage SQL Server databases.<br />
    - Implement CI/CD in existing company projects.<br />
 
 <img class="logo" src="src/ctaima.png">
 :	[CTAIMA](https://ctaima.net)
 
-:	*Software Engineer*<i class="time">Jan 2019 - Feb 2020</i><br />
-   - Design and develop of a new product formed by a REST API in .NET Core and a SPA in Vue.js.<br />
-   - Development of an individual project consisting on a chatbot, integrable in the corporate web apps, powered by Microsoft Bot Framework and populated with a QnA Maker knowledge database.<br />
-   - SQL Server and CosmosDB databases.<br />
+:  *Software Engineer*<i class="time">Jan 2019 - Feb 2020</i><br />
+   - Design and develop a new product formed by a REST API in .NET Core and a SPA in Vue.js.<br />
+   - Develop an individual project consisting in a chatbot, integrable in corporate web apps, powered by Microsoft Bot Framework and populated with a QnA Maker knowledge database.<br />
+   - Manage SQL Server and CosmosDB databases.<br />
 
-:	*Junior Software Engineer*<i class="time">Jul 2017 - Jan 2019</i><br />
-   - Maintenance, improvement and development of new features in a legacy ASP.NET web app.<br />
-   - MySQL databases.<br />
+:  *Junior Software Engineer*<i class="time">Jul 2017 - Jan 2019</i><br />
+   - Maintain, improve, and develop new features in a legacy ASP.NET web app.<br />
+   - Manage MySQL databases.<br />
 <div class="page-break"></div>
 
 Personal projects
 ----------
 <span></span>
-:	<a href="https://github.com/sergicanet9/scv-go-tools" class="with-icon">scv-go-tools</a><br />
-	Toolkit for building REST and gRPC APIs in Go, structured around clean architecture principles.<br />
+:	<a href="https://github.com/sergicanet9/scv-go-tools" class="with-icon">scv-go-tools</a> · Toolkit for building REST and gRPC APIs in Go, structured around clean architecture principles.<br />
 
 <span></span>
-:	<a href="https://github.com/sergicanet9/go-hexagonal-api" class="with-icon">go-hexagonal-api</a><br />
-	A robust gRPC + REST API for user management built with Go and implementing the Hexagonal Architecture (Ports & Adapters) pattern, built on top of the scv-go-tools library.<br />
+:	<a href="https://github.com/sergicanet9/go-hexagonal-api" class="with-icon">go-hexagonal-api</a> · A robust gRPC + REST API for user management built with Go and implementing the Hexagonal Architecture (Ports & Adapters) pattern, built on top of the scv-go-tools library.<br />
 
 <span></span>
-:	<a href="https://github.com/sergicanet9/go-microservices-demo" class="with-icon">go-microservices-demo</a><br />
-	A lightweight Go microservices demo showcasing gRPC and HTTP communication, built on top of the scv-go-tools library and using go-hexagonal-api as a backend service.<br />
+:	<a href="https://github.com/sergicanet9/go-microservices-demo" class="with-icon">go-microservices-demo</a> · A lightweight Go microservices demo showcasing gRPC and HTTP communication, built on top of the scv-go-tools library and using go-hexagonal-api as a backend service.<br />
 
 Skills
 ---------
@@ -93,18 +97,13 @@ Skills
  </tr>
  <tr>
     <td>Distributed Systems</td>
-    <td>.NET</td>
+    <td>System Architecture</td>
+    <td>Cloud Infrastructure</td>
+ </tr>
+ <tr>
     <td>Go</td>
- </tr>
- <tr>
-    <td>REST APIs</td>
-    <td>gRPC</td>
-    <td>Containerization</td>
- </tr>
- <tr>
+    <td>.NET</td>
     <td>Software Testing</td>
-    <td>CI/CD</td>
-    <td>Agile Methodologies</td>
  </tr>
 </table>
 
