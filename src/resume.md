@@ -79,16 +79,13 @@ Work experience
 Personal projects
 ----------
 <span></span>
-:	<a href="https://github.com/sergicanet9/scv-go-tools" class="with-icon">scv-go-tools</a><br />
-	Toolkit for building REST and gRPC APIs in Go, structured around clean architecture principles.<br />
+:	<a href="https://github.com/sergicanet9/scv-go-tools" class="with-icon">scv-go-tools</a> · Toolkit for building REST and gRPC APIs in Go, structured around clean architecture principles.<br />
 
 <span></span>
-:	<a href="https://github.com/sergicanet9/go-hexagonal-api" class="with-icon">go-hexagonal-api</a><br />
-	A robust gRPC + REST API for user management built with Go and implementing the Hexagonal Architecture (Ports & Adapters) pattern, built on top of the scv-go-tools library.<br />
+:	<a href="https://github.com/sergicanet9/go-hexagonal-api" class="with-icon">go-hexagonal-api</a> · A robust gRPC + REST API for user management built with Go and implementing the Hexagonal Architecture (Ports & Adapters) pattern, built on top of the scv-go-tools library.<br />
 
 <span></span>
-:	<a href="https://github.com/sergicanet9/go-microservices-demo" class="with-icon">go-microservices-demo</a><br />
-	A lightweight Go microservices demo showcasing gRPC and HTTP communication, built on top of the scv-go-tools library and using go-hexagonal-api as a backend service.<br />
+:	<a href="https://github.com/sergicanet9/go-microservices-demo" class="with-icon">go-microservices-demo</a> · A lightweight Go microservices demo showcasing gRPC and HTTP communication, built on top of the scv-go-tools library and using go-hexagonal-api as a backend service.<br />
 
 Skills
 ---------
