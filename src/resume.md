@@ -25,8 +25,8 @@ Contact details
 
 Work experience
 ----------
-<img class="logo" src="src/supergroup_2.png">
-:	[Super Group (SGHC)](https://supegroup.com)<br />
+<img class="logo" src="src/supergroup.png">
+:	[Super Group (SGHC)](https://supergroup.com)<br />
 
 :	*Software Engineering Manager*<i class="time">Jun 2026 - Present</i><br />
    - Text...<br />
