@@ -25,6 +25,18 @@ Contact details
 
 Work experience
 ----------
+<img class="logo" src="src/supergroup_2.png">
+:	[Derivco](https://www.derivco.com)<br />
+
+:	*Software Engineering Manager*<i class="time">Jun 2026 - Present</i><br />
+   - Text...<br />
+
+<img class="logo" src="src/supergroup_1.png">
+:	[Derivco](https://www.derivco.com)<br />
+
+:	*Software Engineering Manager*<i class="time">Jun 2026 - Present</i><br />
+   - Text...<br />
+
 <img class="logo" src="src/derivco.png">
 :	[Derivco](https://www.derivco.com)<br />
 
