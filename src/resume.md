@@ -29,10 +29,10 @@ Work experience
 :	[Super Group (SGHC)](https://supergroup.com)<br />
 
 :	*Software Engineering Manager*<i class="time">Jun 2026 - Present</i><br />
-   - Lead the technical transition from Derivco’s legacy infrastructure to Super Group’s cloud environment, following the strategic acquisition of Derivco's Sportsbook.<br />
+   - Lead the technical transition from Derivco's legacy infrastructure to Super Group’s cloud environment, following the strategic acquisition of Derivco's Sportsbook.<br />
    - Orchestrate the unification of the two Sportsbook platforms, integrating Africa's Player Account Management (PAM) system into our global platform and migrating all betting transactions.<br />
    - Spearhead the adoption of new corporate coding standards in Go and drive the transition to MongoDB across core backend systems, shifting toward a full data ownership model within engineering teams.<br />
-   - Partner with corporate stakeholders, Product, Operations, and Site Reliability Engineering teams to bridge business requirements, platform stability, and engineering delivery.<br />
+   - Align corporate stakeholders, Product, Operations and Site Reliability Engineering teams to mitigate risks and guarantee seamless product delivery during the migration phase.<br />
 
 <img class="logo" src="src/derivco.png">
 :	[Derivco](https://www.derivco.com)<br />
@@ -41,8 +41,7 @@ Work experience
    - Lead high performing Software Engineers and Tech Leads across multiple countries, driving the development of critical distributed backend services in a high throughput Sportsbook system.<br />
    - Oversee two strategic domains: one managing logins and real time betting transactions, the other delivering a newly architected rewards engine from scratch, with high potential for revenue growth.<br />
    - Partner with Product, Operations and other Engineering teams to align priorities, shape the roadmap and deliver high impact features that align with business goals and enhance product value.<br />
-   - Foster an engineering culture of collaboration, knowledge sharing and continuous improvement.<br />
-   - Conduct interviews and assess candidates for technical skills and cultural fit.<br />
+   - Scale the engineering organisation by hiring, designing growth paths and fostering a culture of high performance, collaboration and continuous improvement.<br />
 
 :	*Senior Software Engineer*<i class="time">May 2022 - Feb 2024</i><br />
    - Build new microservices from scratch, written in Go and deployed in Kubernetes clusters.<br />
