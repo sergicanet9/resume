@@ -31,7 +31,7 @@ Work experience
 :	*Software Engineering Manager*<i class="time">Jun 2026 - Present</i><br />
    - Lead the technical transition from Derivco's legacy infrastructure to Super Group’s cloud environment, following the strategic acquisition of Derivco's Sportsbook.<br />
    - Orchestrate the unification of the two Sportsbook platforms, integrating Africa's Player Account Management (PAM) system into our global platform and migrating all betting transactions.<br />
-   - Spearhead the adoption of new corporate coding standards in Go and drive the transition to MongoDB across core backend systems, shifting toward a full data ownership model within engineering teams.<br />
+   - Spearhead the adoption of new corporate coding standards in Go and drive the transition to MongoDB across core backend systems, shifting towards a full data ownership model.<br />
    - Align with corporate stakeholders, Product, Operations and Site Reliability Engineering teams to mitigate risks and guarantee seamless product delivery during the migration phase.<br />
 
 <img class="logo" src="src/derivco.png">
@@ -46,7 +46,7 @@ Work experience
 :	*Senior Software Engineer*<i class="time">May 2022 - Feb 2024</i><br />
    - Build new microservices from scratch, written in Go and deployed in Kubernetes clusters.<br />
    - Scale current microservices to go live in new markets and improve code quality.<br />
-   - Act as interim Team Lead, unblocking engineers and ensuring the work is delivered successfully to reach goals.<br />
+   - Act as interim Team Lead, unblocking engineers and ensuring the work is delivered successfully.<br />
    - Help interviewing candidates for the department.<br />
    - Coordinate a Testing & Performance Guild for the department.<br />
 
