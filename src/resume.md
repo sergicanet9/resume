@@ -46,7 +46,7 @@ Work experience
 :	*Senior Software Engineer*<i class="time">May 2022 - Feb 2024</i><br />
    - Build new microservices from scratch, written in Go and deployed in Kubernetes clusters.<br />
    - Scale current microservices to go live in new markets and improve code quality.<br />
-   - Act as interim Team Lead, unblocking engineers to ensure successful delivery and supporting technical hiring.<br />
+   - Act as interim Team Lead, unblocking engineers to ensure delivery and supporting technical hiring.<br />
    - Coordinate a Testing & Performance Guild for the department.<br />
 
 :	*Software Engineer*<i class="time">Jan 2021 - May 2022</i><br />
