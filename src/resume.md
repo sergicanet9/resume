@@ -101,18 +101,13 @@ Skills
  </tr>
  <tr>
     <td>Distributed Systems</td>
-    <td>.NET</td>
+    <td>System Architecture</td>
+    <td>Cloud Infrastructure</td>
+ </tr>
+ <tr>
     <td>Go</td>
- </tr>
- <tr>
-    <td>REST APIs</td>
-    <td>gRPC</td>
-    <td>Containerization</td>
- </tr>
- <tr>
+    <td>.NET</td>
     <td>Software Testing</td>
-    <td>CI/CD</td>
-    <td>Agile Methodologies</td>
  </tr>
 </table>
 
